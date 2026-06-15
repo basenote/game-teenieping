@@ -255,6 +255,7 @@ select {
   display: flex;
   flex-direction: column;
   overflow: hidden;
+  min-height: 0; /* Important for flex/grid shrinking */
 }
 
 .image-container {
@@ -263,6 +264,16 @@ select {
   align-items: center;
   justify-content: center;
   padding: 10px;
+  min-height: 0; /* Allow container to shrink */
+  position: relative;
+  overflow: hidden;
+}
+
+.image-card-fixed img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Forces image to fit within width/height while preserving aspect ratio */
+  display: block;
 }
 
 .image-badge {
@@ -275,13 +286,8 @@ select {
   font-weight: 900;
   padding: 3px 10px;
   border-radius: 99px;
-  z-index: 2;
-}
-
-.image-card-fixed img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
+  z-index: 5; /* Ensure it stays above image */
+  box-shadow: 0 2px 5px rgba(255, 96, 168, 0.2);
 }
 
 .quiz-panel {
