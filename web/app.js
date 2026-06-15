@@ -1,5 +1,5 @@
 const app = document.getElementById("app");
-const characters = window.CHARACTERS_DATA ?? window.SAMPLE_CHARACTERS ?? [];
+const characters = window.CHARACTERS_DATA ?? [];
 
 const categoryLabels = {
   royal: "로열 티니핑",

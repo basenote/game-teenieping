@@ -2,28 +2,31 @@
 <html lang="ko">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>캐치! 티니핑 퀴즈 - 이름 맞히기</title>
+    <link rel="stylesheet" href="./styles.css?v=1.0.0" />
+    <meta name="description" content="다양한 기수의 티니핑들의 이름을 맞혀보세요! 힌트와 목소리로 즐기는 재미있는 퀴즈." />
+    <!-- Prevent dev caching -->
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
-    <title>티니핑 이름 맞추기</title>
-    <link rel="stylesheet" href="./styles.css?v=20260503-quiz-refresh-3" />
   </head>
   <body>
     <div class="page-shell">
-      <header class="hero">
-        <p class="eyebrow">Catch! Teenieping Quiz</p>
-        <h1>티니핑 이름 맞추기</h1>
-        <p class="hero-copy">
-          기수와 난이도를 고르고, 힌트와 목소리를 활용해 캐릭터 이름을 맞혀보세요.
-        </p>
+      <header class="app-header">
+        <div class="logo-area">
+          <span class="emoji-logo">✨</span>
+          <h1>티니핑 퀴즈</h1>
+        </div>
       </header>
 
-      <main id="app" class="app-card"></main>
+      <main id="app"></main>
+      
+      <footer class="app-footer">
+        <p>© 2026 Teenieping Quiz Service. Data from NamuWiki.</p>
+      </footer>
     </div>
 
-    <script src="./data/characters.generated.js?v=20260503-quiz-refresh-3"></script>
-    <script src="./data/sample-characters.js?v=20260503-quiz-refresh-3"></script>
-    <script src="./app.js?v=20260503-quiz-refresh-3"></script>
+    <!-- Production Data -->
+    <script src="./data/characters.generated.js?v=1.0.0"></script>
+    <script src="./app.js?v=1.0.0"></script>
   </body>
 </html>
