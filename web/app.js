@@ -138,6 +138,17 @@ function buildQuestions() {
 }
 
 function startGame() {
+  // Resume audio context on first user gesture for mobile
+  if (audioContext && audioContext.state === "suspended") {
+    audioContext.resume();
+  } else if (!audioContext) {
+    const AudioContextClass = window.AudioContext || window.webkitAudioContext;
+    if (AudioContextClass) {
+      audioContext = new AudioContextClass();
+      audioContext.resume();
+    }
+  }
+
   buildQuestions();
   state.currentIndex = 0;
   state.score = 0;
@@ -246,29 +257,39 @@ function resolveCharacterImageSource(character) {
   return character.image || createCharacterSvg(character);
 }
 
+let audioContext = null;
+
 function playTone(type) {
   const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-  if (!AudioContextClass) {
-    return;
+  if (!AudioContextClass) return;
+
+  if (!audioContext) {
+    audioContext = new AudioContextClass();
   }
 
-  const context = new AudioContextClass();
+  // Mobile browsers require resume() inside a user gesture
+  if (audioContext.state === "suspended") {
+    audioContext.resume();
+  }
+
   const sequence = type === "success" ? [523.25, 659.25, 783.99] : [392.0, 329.63, 261.63];
+  const startOffset = audioContext.currentTime;
 
   sequence.forEach((frequency, index) => {
-    const oscillator = context.createOscillator();
-    const gain = context.createGain();
-    const start = context.currentTime + index * 0.12;
+    const oscillator = audioContext.createOscillator();
+    const gain = audioContext.createGain();
+    const start = startOffset + index * 0.12;
     const duration = 0.18;
 
     oscillator.type = type === "success" ? "triangle" : "sine";
     oscillator.frequency.value = frequency;
+    
     gain.gain.setValueAtTime(0.0001, start);
-    gain.gain.exponentialRampToValueAtTime(0.15, start + 0.01);
+    gain.gain.exponentialRampToValueAtTime(0.12, start + 0.01);
     gain.gain.exponentialRampToValueAtTime(0.0001, start + duration);
 
     oscillator.connect(gain);
-    gain.connect(context.destination);
+    gain.connect(audioContext.destination);
     oscillator.start(start);
     oscillator.stop(start + duration);
   });
