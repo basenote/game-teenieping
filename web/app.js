@@ -573,35 +573,34 @@ function renderFeedback() {
 
   app.innerHTML = `
     <section class="screen feedback-screen ${isCorrect ? "" : "shake"}">
-      <div class="result-card">
-        <div class="feedback-badge ${isCorrect ? "correct" : "wrong"}">
-          ${isCorrect ? "정답이에요! ✨" : "아쉬워요... 💧"}
-        </div>
-        
-        <div class="feedback-layout">
-          <div class="feedback-visual">
-            <div class="character-circle" style="background: ${answer.themeColor}33; border-color: ${answer.themeColor}">
-              <img src="${resolveCharacterImageSource(answer)}" alt="${answer.nameKo}" />
-            </div>
+      <div class="result-card centered-feedback">
+        <div class="feedback-header">
+          <div class="feedback-badge ${isCorrect ? "correct" : "wrong"}">
+            ${isCorrect ? "정답이에요! ✨" : "아쉬워요... 💧"}
           </div>
           
-          <div class="feedback-info">
-            <h2 class="answer-name">${answer.nameKo}</h2>
-            <div class="feedback-message">
-              ${isCorrect
-                ? "티니핑의 이름을 완벽하게 맞혔어요!"
-                : `답은 <strong>${selectedName}</strong>(이)가 아니라 <strong>${answer.nameKo}</strong>였어요.`}
+          <div class="character-visual-wrap">
+            <div class="character-circle-large" style="background: ${answer.themeColor}22; border-color: ${answer.themeColor}">
+              <img src="${resolveCharacterImageSource(answer)}" alt="${answer.nameKo}" />
             </div>
+            <h2 class="answer-name-large">${answer.nameKo}</h2>
           </div>
         </div>
-
-        <div class="feedback-summary">
-           ${answer.summary}
+        
+        <div class="feedback-content-box">
+          <div class="feedback-message-box">
+            ${isCorrect
+              ? "티니핑의 이름을 완벽하게 맞혔어요! 정말 대단해요."
+              : `답은 <strong>${selectedName}</strong>(이)가 아니라 <strong>${answer.nameKo}</strong>였어요.`}
+          </div>
+          <div class="feedback-summary-text">
+             ${answer.summary}
+          </div>
         </div>
 
         <div class="result-actions">
           <button id="next-button" class="primary-btn pulse" type="button">
-            ${state.currentIndex === state.questions.length - 1 ? "최종 결과 보기" : "다음 문제로!"}
+            ${state.currentIndex === state.questions.length - 1 ? "최종 결과 보기" : "다음 문제로 가기"}
           </button>
         </div>
       </div>
@@ -615,25 +614,45 @@ function renderSummary() {
   const total = state.questions.length;
   const rate = Math.round((state.score / total) * 100);
   const totalHints = state.results.reduce((sum, result) => sum + result.hintsUsed, 0);
-  const totalVoice = state.results.filter((result) => result.voiceUsed).length;
 
   app.innerHTML = `
-    <section class="screen summary-card">
-      <div class="result-grade">최종 정답률 ${rate}%</div>
-      <div>
-        <h2 class="card-title">총 ${total}문제 중 ${state.score}문제를 맞혔어요</h2>
-        <p class="subtle">${scoreMessage(rate)}</p>
-      </div>
-      <div class="summary-stats">
-        <div class="stat"><strong>${state.score}</strong>맞힌 문제</div>
-        <div class="stat"><strong>${totalHints}</strong>사용한 힌트</div>
-        <div class="stat"><strong>${totalVoice}</strong>목소리 재생</div>
-      </div>
-      <div class="notice">
-        기수와 난이도를 바꿔 다시 풀어 보면 비슷한 이름끼리 구분하는 감각을 더 빠르게 익힐 수 있어요.
-      </div>
-      <div class="result-actions">
-        <button id="restart-button" class="primary-btn" type="button">다시 시작</button>
+    <section class="screen summary-screen">
+      <div class="summary-card-polished">
+        <div class="summary-header">
+          <div class="trophy-visual">🏆</div>
+          <h2 class="summary-title">퀴즈 완료!</h2>
+          <div class="summary-grade-badge">정답률 ${rate}%</div>
+        </div>
+
+        <div class="summary-main-score">
+          <div class="score-circle">
+            <span class="score-num">${state.score}</span>
+            <span class="score-total">/ ${total}</span>
+          </div>
+          <p class="score-comment">${scoreMessage(rate)}</p>
+        </div>
+
+        <div class="summary-stats-grid">
+          <div class="stat-item">
+            <span class="stat-icon">💡</span>
+            <span class="stat-label">힌트 사용</span>
+            <span class="stat-count">${totalHints}회</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-icon">✨</span>
+            <span class="stat-label">난이도</span>
+            <span class="stat-count">${state.setup.difficulty === "hard" ? "상" : state.setup.difficulty === "medium" ? "중" : "하"}</span>
+          </div>
+        </div>
+
+        <div class="summary-notice">
+          다양한 기수의 티니핑들을 더 만나보세요!<br/>
+          다시 도전하면 정답률을 더 높일 수 있어요.
+        </div>
+
+        <div class="result-actions">
+          <button id="restart-button" class="primary-btn pulse" type="button">처음으로 돌아가기</button>
+        </div>
       </div>
     </section>
   `;
