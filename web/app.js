@@ -495,7 +495,7 @@ function renderQuiz() {
   const voice = resolveVoiceState(question.answer);
   const hintText = question.hintRevealed
     ? question.answer.hints[0]
-    : "힌트 버튼을 누르면 캐릭터 설명 힌트가 이 영역에 표시돼요.";
+    : "버튼을 누르면 캐릭터 설명이 이 영역에 표시돼요.";
 
   app.innerHTML = `
     <section class="screen quiz-card">
