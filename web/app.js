@@ -281,8 +281,6 @@ function playVoice() {
   const voice = resolveVoiceState(question.answer);
 
   if (voice.status === "missing") {
-    state.toast = "이 캐릭터의 목소리 클립은 아직 준비 중이에요.";
-    render();
     return;
   }
 
@@ -411,59 +409,63 @@ function scoreMessage(rate) {
 
 function renderSetup() {
   app.innerHTML = `
-    <section class="screen setup-grid">
-      <article class="intro-card">
-        <h2 class="card-title">퀴즈 안내</h2>
-        <p class="subtle">
-          기수, 문항 수, 난이도를 고른 뒤 티니핑 이미지를 보고 이름을 맞히는 퀴즈예요.
-          힌트 버튼으로 설명 한 줄을 보고, 사운드 버튼으로 음성도 확인할 수 있어요.
-        </p>
-        <div class="fact-list">
-          <div class="fact"><strong>${characters.length}명</strong>수집 캐릭터</div>
-          <div class="fact"><strong>1개</strong>설명 힌트</div>
-          <div class="fact"><strong>난이도 3단계</strong>선택형 퀴즈</div>
+    <section class="screen setup-screen">
+      <div class="hero-section">
+        <div class="hero-visual">
+          <img src="./assets/images/characters/s1-royal-001.webp" alt="Mascot Hachuping" class="hero-mascot" />
+          <div class="hero-sparkle s1">✨</div>
+          <div class="hero-sparkle s2">🌸</div>
         </div>
-      </article>
-      <article class="settings-card">
-        <div class="field">
-          <label for="scope">퀴즈 범위</label>
-          <select id="scope" name="scope">
-            <option value="all">전체</option>
-            <option value="season-1">1기</option>
-            <option value="season-2">2기</option>
-            <option value="season-3">3기</option>
-            <option value="season-4">4기</option>
-            <option value="season-5">5기</option>
-            <option value="season-6">6기</option>
-            <option value="royal-only">로열 티니핑만</option>
-            <option value="general-only">일반 티니핑만</option>
-          </select>
+        <div class="hero-content">
+          <h2 class="hero-title">티니핑 이름 맞히기</h2>
+          <p class="hero-subtitle">퀴즈 옵션을 선택하고 시작 버튼을 눌러주세요!</p>
         </div>
-        <div class="field">
-          <label for="count">문항 수</label>
-          <select id="count" name="count">
-            <option value="10">10</option>
-            <option value="20">20</option>
-            <option value="50">50</option>
-            <option value="100">100</option>
-          </select>
-        </div>
-        <div class="field">
-          <label for="difficulty">난이도</label>
-          <select id="difficulty" name="difficulty">
-            <option value="easy">하</option>
-            <option value="medium" selected>중</option>
-            <option value="hard">상</option>
-          </select>
-        </div>
-        <div class="pill-row">
-          <div class="pill">설명 힌트 1개</div>
-          <div class="pill">사운드 버튼 포함</div>
-        </div>
-        <div class="submit-wrap">
-          <button id="start-button" class="primary-btn" type="button">퀴즈 시작</button>
-        </div>
-      </article>
+      </div>
+
+      <div class="setup-container">
+        <article class="settings-card">
+          <div class="settings-group">
+            <div class="field">
+              <label for="scope">퀴즈 범위</label>
+              <select id="scope" name="scope">
+                <option value="all">전체 캐릭터</option>
+                <option value="season-1">시즌 1: 캐치! 티니핑</option>
+                <option value="season-2">시즌 2: 반짝반짝 티니핑</option>
+                <option value="season-3">시즌 3: 알쏭달쏭 티니핑</option>
+                <option value="season-4">시즌 4: 새콤달콤 티니핑</option>
+                <option value="season-5">시즌 5: 슈가슈가 티니핑</option>
+                <option value="season-6">시즌 6: 프린세스 티니핑</option>
+                <option value="royal-only">👑 로열 티니핑만</option>
+                <option value="general-only">🎈 일반 티니핑만</option>
+              </select>
+            </div>
+            
+            <div class="settings-row">
+              <div class="field">
+                <label for="count">문항 수</label>
+                <select id="count" name="count">
+                  <option value="10">10문제</option>
+                  <option value="20">20문제</option>
+                  <option value="50">50문제</option>
+                  <option value="100">100문제</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="difficulty">난이도</label>
+                <select id="difficulty" name="difficulty">
+                  <option value="easy">하 (초보)</option>
+                  <option value="medium" selected>중 (보통)</option>
+                  <option value="hard">상 (전문가)</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          
+          <div class="start-action">
+            <button id="start-button" class="primary-btn pulse" type="button">퀴즈 시작하기!</button>
+          </div>
+        </article>
+      </div>
     </section>
   `;
 
