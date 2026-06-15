@@ -499,31 +499,42 @@ function renderQuiz() {
 
   app.innerHTML = `
     <section class="screen quiz-card">
-      <div class="progress-head">
-        <div>
-          <h2 class="card-title">문제 ${progress.current} / ${progress.total}</h2>
-          <div class="progress-meta">현재 점수 ${state.score}점</div>
+      <div class="quiz-header-bar">
+        <div class="header-item header-left">
+          <span class="header-label">문제</span>
+          <span class="header-value">${progress.current}/${progress.total}</span>
         </div>
-        <div class="progress-meta">${question.answer.seriesTitle}</div>
+        <div class="header-item header-center">
+          <span class="header-series-badge">${question.answer.seriesTitle}</span>
+        </div>
+        <div class="header-item header-right">
+          <span class="header-label">현재 점수</span>
+          <span class="header-value highlight">${state.score}점</span>
+        </div>
       </div>
-      <div class="progress-bar"><div class="progress-fill" style="width:${progressRatio}%"></div></div>
+      
+      <div class="progress-bar-wrap">
+        <div class="progress-fill" style="width:${progressRatio}%"></div>
+      </div>
 
       <div class="quiz-layout">
-        <article class="image-card">
+        <article class="image-card-fixed">
           <span class="image-badge">${seasonLabel(question.answer.season)} · ${categoryLabels[question.answer.category] ?? question.answer.category}</span>
-          <img src="${resolveCharacterImageSource(question.answer)}" alt="문제 캐릭터 이미지" />
+          <div class="image-container">
+            <img src="${resolveCharacterImageSource(question.answer)}" alt="문제 캐릭터 이미지" />
+          </div>
         </article>
 
         <section class="quiz-panel">
-          <div>
-            <h3 class="question-title">이 티니핑의 이름은 무엇일까요?</h3>
-            <p class="subtle">이미지, 힌트, 목소리를 듣고 가장 알맞은 이름을 골라보세요.</p>
+          <div class="panel-header">
+            <h3 class="question-title">누구일까요?</h3>
+            <p class="panel-subtitle">이미지와 힌트를 보고 맞춰보세요!</p>
           </div>
 
           <div class="hint-box"><p class="hint-line">${question.hintRevealed ? `힌트. ${hintText}` : hintText}</p></div>
 
           <div class="action-row">
-            <button class="secondary-btn" type="button" id="hint-button" ${question.hintRevealed ? "disabled" : ""}>힌트 보기</button>
+            <button class="secondary-btn" type="button" id="hint-button" ${question.hintRevealed ? "disabled" : ""}>💡 힌트 보기</button>
             <button
               id="voice-button"
               class="icon-btn voice-${voice.status}"
@@ -546,9 +557,8 @@ function renderQuiz() {
           </div>
 
           <div class="submit-wrap">
-            <button id="submit-button" class="primary-btn" type="button">제출하기</button>
+            <button id="submit-button" class="primary-btn ${state.selectedAnswerId ? "pulse" : ""}" type="button" ${!state.selectedAnswerId ? "disabled" : ""}>정답 제출하기</button>
           </div>
-          ${state.toast ? `<div class="notice">${state.toast}</div>` : ""}
         </section>
       </div>
     </section>
