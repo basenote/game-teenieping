@@ -137,17 +137,9 @@ function buildQuestions() {
   }));
 }
 
-function startGame() {
+async function startGame() {
   // Resume audio context on first user gesture for mobile
-  if (audioContext && audioContext.state === "suspended") {
-    audioContext.resume();
-  } else if (!audioContext) {
-    const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-    if (AudioContextClass) {
-      audioContext = new AudioContextClass();
-      audioContext.resume();
-    }
-  }
+  await ensureAudioContext();
 
   buildQuestions();
   state.currentIndex = 0;
@@ -259,25 +251,34 @@ function resolveCharacterImageSource(character) {
 
 let audioContext = null;
 
-function playTone(type) {
+/**
+ * Robust audio unlocking for mobile browsers
+ */
+async function ensureAudioContext() {
   const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-  if (!AudioContextClass) return;
+  if (!AudioContextClass) return null;
 
   if (!audioContext) {
     audioContext = new AudioContextClass();
   }
 
-  // Mobile browsers require resume() inside a user gesture
   if (audioContext.state === "suspended") {
-    audioContext.resume();
+    await audioContext.resume();
   }
+  
+  return audioContext;
+}
+
+async function playTone(type) {
+  const context = await ensureAudioContext();
+  if (!context) return;
 
   const sequence = type === "success" ? [523.25, 659.25, 783.99] : [392.0, 329.63, 261.63];
-  const startOffset = audioContext.currentTime;
+  const startOffset = context.currentTime;
 
   sequence.forEach((frequency, index) => {
-    const oscillator = audioContext.createOscillator();
-    const gain = audioContext.createGain();
+    const oscillator = context.createOscillator();
+    const gain = context.createGain();
     const start = startOffset + index * 0.12;
     const duration = 0.18;
 
@@ -285,11 +286,11 @@ function playTone(type) {
     oscillator.frequency.value = frequency;
     
     gain.gain.setValueAtTime(0.0001, start);
-    gain.gain.exponentialRampToValueAtTime(0.12, start + 0.01);
+    gain.gain.exponentialRampToValueAtTime(0.1, start + 0.01);
     gain.gain.exponentialRampToValueAtTime(0.0001, start + duration);
 
     oscillator.connect(gain);
-    gain.connect(audioContext.destination);
+    gain.connect(context.destination);
     oscillator.start(start);
     oscillator.stop(start + duration);
   });
