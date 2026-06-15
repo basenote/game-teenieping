@@ -1,0 +1,3627 @@
+[
+  {
+    "id": "s1-royal-001",
+    "nameKo": "하츄핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%ED%95%98%EC%B8%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/ASmbFEx0B1hVsQGlXsCH8no9sARvIoCBUBw7LRHQs8NYqzg6iWMI2iH-snxcO1_vTRYzxwwNCSUiteAPm_NlhUMsk9MTMdtKLXeXUsXRZXPrXMotQCOWIfRc_2SreTrZ93mTHu8q2kd923_4-Z4ANw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "하츄핑 티니핑이에요.",
+    "hints": [
+      "하츄핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "하츄핑",
+      "imageAlt": "하츄핑",
+      "sectionTitle": "1기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s1-royal-002",
+    "nameKo": "바로핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EB%B0%94%EB%A1%9C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/MGu7DI5GJg7cIuNMFYon_r2d8DdmrD4hn4sE2tfqnKC28tDUg5ZnvD_opMmXNRN3vkUiE7R27mJal3sbzmAtlDlxglfYru9N0D-Okp4pajUGtaRaV-EgglsFXDArVFPKS7yXvIl5M2rdnHX2DZKHWQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "바로핑 티니핑이에요.",
+    "hints": [
+      "바로핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "바로핑",
+      "imageAlt": "바로핑",
+      "sectionTitle": "1기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s1-royal-003",
+    "nameKo": "아자핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%EC%9E%90%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/GFgdtOYmX-scdXt14EiczP7aCaMW7zgVy5diVBjNjD9UvrrQ09lppTHrGJB7x_DFTy7FnLQY7Wd87XS1Z4R9yoaegP1c07lOfIRqS1H396MkgWwjr8YjUNhFOtML5v6kPCNNoAYcodxAPrWkUcMlHg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "아자핑 티니핑이에요.",
+    "hints": [
+      "아자핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아자핑",
+      "imageAlt": "아자핑",
+      "sectionTitle": "1기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s1-royal-004",
+    "nameKo": "차차핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EC%B0%A8%EC%B0%A8%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/z6GcL3xGaohUp7fM3mteKrJ9hNnj0H0LkcJHy-PSe3ySlqHTK8xhhkeQ2A9DJZ-DWrfZKZFclXBhuo9CxeuWme8Ty_VFa9QlSwvZTBPLMwOknszOO-t_z3Iwd-MsdjG3q7olqmzw4tU3eZemAe_L-w.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "차차핑 티니핑이에요.",
+    "hints": [
+      "차차핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "차차핑",
+      "imageAlt": "차차핑",
+      "sectionTitle": "1기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s1-royal-005",
+    "nameKo": "라라핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EB%9D%BC%EB%9D%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/fMFItDZkPYQd86w_8LdODRT29TaSALbVIVeRjE2fawgNRcuyZYwAbbr-ksIosaaJyyr0QdPAZ0-v7NKAlGkI4GfPtTgBoNnGLIR8E8BYcwKpFOpF7qK253MlAgw1bpeC0J-2-cpL20un1OLLE55UKg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "라라핑 티니핑이에요.",
+    "hints": [
+      "라라핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "라라핑",
+      "imageAlt": "라라핑",
+      "sectionTitle": "1기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s1-royal-006",
+    "nameKo": "해핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%ED%95%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/QUjMvrN2AVu5MfTwyx2NUMgjJYy-rfs9hmHm0sMhAY-pk42oFr2dxCKv_DScyru7tN3jbfMbKLeFdx4BDx82t76PJqwc8k7p0g1dKjG2KE1duy1UCm_UNam5i-agX3ob6Y3_UMuVEQtSrKsI04yyig.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "해핑 티니핑이에요.",
+    "hints": [
+      "해핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "해핑",
+      "imageAlt": "해핑",
+      "sectionTitle": "1기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-001",
+    "nameKo": "키키핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%82%A4%ED%82%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/BpFNcf6kNbtoQYj2eNtxdWRdpp3ohrPUX3VY3wz7cIp-BDYFOl5O9aHZYlc94WfD2K2oKYO2Hn2V1pELYsQBthFXYlE9ADUeaq1Jlq5TrwbTNmqYK7vZqCnLayayS45FXaTUep19smw8jURaa8opbQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "키키핑 티니핑이에요.",
+    "hints": [
+      "키키핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "키키핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-002",
+    "nameKo": "아잉핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%EC%9E%89%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/m9tgfz_0RbMLA-3zy7lSdaILftPRZ0GsdXUC_K7XZH76kooDA3K3eTv6q25iwQnEztgHFBt2_LpzYka2pSO4K1EY1rRbLYvtsup_PPKnU4qjjEtCGrsZQ4BFiXPHqvs7WaWficdK4QM_teW7K6YGEw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "아잉핑 티니핑이에요.",
+    "hints": [
+      "아잉핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아잉핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-003",
+    "nameKo": "부끄핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%B6%80%EB%81%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/OzGgJ2MIlTGMxxPvsjWyWtHRVdRHn3jOOLP9O2NYvXZ71xHySuZ1cLaRYkbXFwsJlH3MUWe7VFWnn9LLnWslINYnOx3ttDcKxMoeUaMEMBuV0WItm3U7fvDYLibau8_piPGgL5walpa6cZydPfOwsQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "부끄핑 티니핑이에요.",
+    "hints": [
+      "부끄핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "부끄핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-004",
+    "nameKo": "부투핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%B6%80%ED%88%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/JvokCI9WmQ5udJCbL3qjK6PuQlTPs2kAt4Y_01ZT31n5ZRt7EYsCwCEoKRUoBDDIU9seG6dKxMBuXzOPsHb3-aF3kIUqYg4A_dXdwJKVoAjjROg9q5o6-BYl4qXb3NANVWHiCpay9uxwoNgIy9Tlgw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "부투핑 티니핑이에요.",
+    "hints": [
+      "부투핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "부투핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-005",
+    "nameKo": "깜빡핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B9%9C%EB%B9%A1%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/sO9ydazY-XlybB_pEGnKDW09QeIzZ_afDzVFxdgvnWfwoYrzihWvEEURaHKW3kX01VsLpJmqkjlUeA_34lOM5Lxfbo_LxTHNNstXY2HsWxMabzK7ojbJ1n4PMyLjJaPyteCgX4r1y96fbbXRDrZ9wQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "깜빡핑 티니핑이에요.",
+    "hints": [
+      "깜빡핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "깜빡핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-006",
+    "nameKo": "띠용핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%9D%A0%EC%9A%A9%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/evpZiThc3SGS0m06XJUNHg9_isw_x6ZHHfhDMte7YBnZ3GROci_6YJP_1wZdko2ca8CsrZDw22H0uRevUw3G46ptnBHsCtI1-Lra38ZuzDrU4ouZ6Mq8V8jRwq_EjmA8ji0d5aU4JWTfI1L-qOxT7w.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "띠용핑 티니핑이에요.",
+    "hints": [
+      "띠용핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "띠용핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-007",
+    "nameKo": "주르핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%A3%BC%EB%A5%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/K-WmJrkPosthK6mHtNpxSuAi-Mh3x2eNR7V8ReuIgnsILqdzCan_bFu-YMmFp-jilSYc3Kl-MRyFzeLpMWjvp3TcyMMBt4OFvbcN2qy3MQp8Ud7UESiqqZYKvMvrW7RKX5qrGYvMlPOZSLDUj9QeaQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "주르핑 티니핑이에요.",
+    "hints": [
+      "주르핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "주르핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-008",
+    "nameKo": "차나핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%B0%A8%EB%82%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/-VDF5putpo4q_cEoEqbfhk9cSLvpFLouUBQ25yddRt8SfYPTrX9lRHq7WvYKOMVFWAzbe1zvp5uXt6ikzCB0PR6qtFdPeE-qn0FxWOvWKDzVfAECTtM0f73_tJyDpOASdItu5UT33PQPs6WHyKD2Kg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "차나핑 티니핑이에요.",
+    "hints": [
+      "차나핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "차나핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-009",
+    "nameKo": "따라핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%94%B0%EB%9D%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/sk4dNAEWNQLOa8MitotUR74NDDlQqCELhlVnqgAg3XUrUExgKh-eXSPU2-M2A_S0VvBGwS9Oc-QcV33gJmHaY42fJctUT9Z3x3IXZloj_itc8W_3_yDa64tm4tutJ9D-vKAKe94aJGX00wQ2-Iozgg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "따라핑 티니핑이에요.",
+    "hints": [
+      "따라핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "따라핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-010",
+    "nameKo": "나르핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%82%98%EB%A5%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/u4Q_kfYGzYiYlQkIjPjaaWrRseVhEetYASiI9QDpgMjdg1yeX-Xr0yTsX1Mn9CVZjykrDKA8ecxQRjuTRV2kUZ2QnaD2r_ZyEjiHBn7_TLKtGJUBF4tWgpZwWBjc3xcTpm__wJZ6JDzRAWJHcVhMxA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "나르핑 티니핑이에요.",
+    "hints": [
+      "나르핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "나르핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-011",
+    "nameKo": "무셔핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%AC%B4%EC%85%94%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/bUo0enOtagdMRhfu20n5tItx4xD7hHDAFDj4uuyqnowBUISctXdO4Q5pxKEE4QBBfpK7n127XZvv686R9ap74uh4Dfts5tXR1MT61Ry4MMQ3AwW9HXFV4fUY9kkRPDVjmsiS0qAtave3iIjgSWa9OA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "무셔핑 티니핑이에요.",
+    "hints": [
+      "무셔핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "무셔핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-012",
+    "nameKo": "투투핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%88%AC%ED%88%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/De5ZvPiE6eQf-OSUtZzOmVnSH7DmZnqzdSmRtFOOB0-EFTuTHlFkUO2yyenKV70gjUsshA43ZM5pHeZFT9TrCXWbENqgJTS0hP3M9E1mWMTGkoScNx6GM2lGHj8fzsUbrH2GkT14QvqW0I8M6jCQVg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "투투핑 티니핑이에요.",
+    "hints": [
+      "투투핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "투투핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-013",
+    "nameKo": "차캐핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%B0%A8%EC%BA%90%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/MfDZyU6p5s0OHIop6-0sm4fhGXcOg2xr670Oo2uAaBKg12tX4OoNawrtjQ_fbBS9VpcJYWFvS-_onQD0Ga7-6DPSjdVdOrblA6Qqy2xK2AdovASfVylnMtr5zUBdKZhXCm2u0jd48gN1tHF83dsVDg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "차캐핑 티니핑이에요.",
+    "hints": [
+      "차캐핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "차캐핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-014",
+    "nameKo": "떠벌핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%96%A0%EB%B2%8C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/gH6Q3P1vFm9Zx5Z9tfNhmLhtd1uSNz8DcjozUxzOiN31X4r2N4SFZr12p7B-aFeOpMznEz9e-wZOXYCjc1U_kP3Wc_rGWbtDtZHG9rDJacdkmIuBGzy4nMT0OoVQqarja8vgCSg-A8kSNgLdy83a0Q.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "떠벌핑 티니핑이에요.",
+    "hints": [
+      "떠벌핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "떠벌핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-015",
+    "nameKo": "다조핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%8B%A4%EC%A1%B0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/AdPsB3xGSTaldKx5Y45Y94oq_07hTrnIkVkLEijwUnhC48gjOjcD2nD_KpO89sqFZjm8soyDj0a92_Ix8OXjloM0awkO-cWFc4LWrhJYrHdwuRgDtrkrp21ckF0M1f3XEUI5koLcUhFJEG4Yc-WA4Q.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "다조핑 티니핑이에요.",
+    "hints": [
+      "다조핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "다조핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-016",
+    "nameKo": "화나핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%99%94%EB%82%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/ThP2h0ihWp5zrIM0JJIjivBhq1K7zyc1sDtQos8WAM2B_8reX55USO5LeXoHiAISm2UMfdz-AKPS-mSsThEcRXSDK98Gu2ji3IO_acyp5Rsi_zzNgRbBqKvqOZYXV3pXcyxG1p59D-H0fR5RlKgGNw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "화나핑 티니핑이에요.",
+    "hints": [
+      "화나핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "화나핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-017",
+    "nameKo": "시러핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%8B%9C%EB%9F%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/_xta_-GkJjLOwKVk8w7Fn04ogPzrHqgNOdrXMOiM0LB9DDupJ2-DOZeSAYAYx5ldhoe5jYipRLLVJ_HHLP_--8Ws2THVMsJSGEkXipYt7x17m-oXxsd_nSh0O2OeYNCeumD35jYACqDVo8wkCcKUpw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "시러핑 티니핑이에요.",
+    "hints": [
+      "시러핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "시러핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-018",
+    "nameKo": "바네핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%B0%94%EB%84%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/F6Tf-ckUyCIy43eCFmxiWBGDpAkHLrJipPA-zsbIO8Vfx9uC0m-kXxuqlul8_dyYcGwprzdU4RiujumgTGO8QxX6IT0gWYcJnp_sLwgphsdKdnAxwfPh2Q4LUxNw7AJ4GFkkm7-OXSW_cQQb4IpJqA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "바네핑 티니핑이에요.",
+    "hints": [
+      "바네핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "바네핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-019",
+    "nameKo": "악동핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%85%EB%8F%99%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/4mNm7j_nfPSWmcKAGIz2ekQXElFybMCT7fz_RzcUwKHVUdW5YflJvxL9Jk20movnhj8eUP-NByAwF9swoj9BRx7j6e5hoYrt5BL_t5A1v-dWMGfNVwFgkumA8nzhKEN6uHBnxoQkmJl9-ol44kBAYA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "악동핑 티니핑이에요.",
+    "hints": [
+      "악동핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "악동핑",
+      "imageAlt": "악동핑1",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-020",
+    "nameKo": "덜덜핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%8D%9C%EB%8D%9C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/TduM6tx4oNeZUU9_0wuUnFR3HfFjmqgY_OV5lsAKgjtzVGYa7I0iblQ9BgpBsOkboUGbmFHOyfgZmvV40SZsXikduoMix_7-EZ1fQYXrrPTaCXFsrmeKYEthXbpJC6V1iBwMRO-VskeUMJS53UllJw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "덜덜핑 티니핑이에요.",
+    "hints": [
+      "덜덜핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "덜덜핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-021",
+    "nameKo": "그림핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B7%B8%EB%A6%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/g4pPnhLW010ZwvCWQ2haeh4GdiF7LSbdljOtnhJh3WBMBxcHeNM4824ysHs42mx7UQGMO4vJbCxXuefaSu-VYD16-NCrJbskzhVMpghXttHUE8qqrwa-ItI7j1yPUcr-ASL1XTe2ibk8-Mmhz_UobQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "그림핑 티니핑이에요.",
+    "hints": [
+      "그림핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "그림핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-022",
+    "nameKo": "무거핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%AC%B4%EA%B1%B0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/X1BVAGjRmOyJ74S8KJdvNqr9isOqH0lnnjUsUNgTPXPSVzLZ4vAgWerYigQQpokrdJoQ6U9ENyuO7MUltPjKxTxvk9wXxZB70Q45wDz1d8iObmDiOQDASZCyWWCUNqL3QR0yVy5g2OCkYY5S5Z3Lyg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "무거핑 티니핑이에요.",
+    "hints": [
+      "무거핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "무거핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-023",
+    "nameKo": "꺼꿀핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%BA%BC%EA%BF%80%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/GEdE9mIgePGCpU4BcUtRhyyKDABLzcBa0TQBU2K9M4fdQWkqoClkwMSs-OLW4ZWSElvOb9xnMUMcjVjnrmwuTSbqAB3ui5G9_3nBicfMb1bzN3D-eGgOrqWGJHW7-0M2GmKNmfHD6rAunfBJzUT89g.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "꺼꿀핑 티니핑이에요.",
+    "hints": [
+      "꺼꿀핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "꺼꿀핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-024",
+    "nameKo": "씽씽핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%94%BD%EC%94%BD%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/XpFAJekRonWar1JK_SLrv-LjYE3UUKCQ73OZ9-FZhrYHIpquaLmzu7oxzRVnDZkc_Zm_li3Bh7RoNNimB5LA6xa1MLHDMF-hVlBaJdoKmzZZduX-LHOhFMNnj-yrk_Vgx5z2pDP1tA7g-re7BJCjpA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "씽씽핑 티니핑이에요.",
+    "hints": [
+      "씽씽핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "씽씽핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-025",
+    "nameKo": "베베핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%B2%A0%EB%B2%A0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/fkYgBB_MN2RLzzwS8ti8vrz8gTmBoVP80U5Zl8RJyZc-7hjtBMiA286Vjqzr4j_6AVgGTpY7ND73Gwpr0LFSTKjiVHxxy2axWhwkRhz-dIZoLf145jsgDau0ucCGi5-AFHN6lKu_TkhkYA8B58meFw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "베베핑 티니핑이에요.",
+    "hints": [
+      "베베핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "베베핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-026",
+    "nameKo": "코자핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%BD%94%EC%9E%90%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/Uj5aq2OqzJcGvq9cGRfPXCNmgQ8yLxpXv7ZIlkphRcj2h_WB7YTxejIJpdOmqPZ6AVtlTg-JnKA0cZFBsBq0kSBUN721x0EuPqtRTDje18rghbIEOzCHQmUJyJJHZlcbr8QANnQreK43qqsmxqQaFw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "코자핑 티니핑이에요.",
+    "hints": [
+      "코자핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "코자핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-027",
+    "nameKo": "딱풀핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%94%B1%ED%92%80%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/zv0-G-O_K2Pt1qhzYNHxCuVrhEDPThsOds6j5VJrUgnp0V-yZuXcCqLR3FMdGOpKPlLJ5hocElufMcrMdbTeKWWdJeoM1Q9EZrST7KrBbKu7tZuV6rHEgnCfUepszlrjm5448LG-GNo6gGI9kjhoOQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "딱풀핑 티니핑이에요.",
+    "hints": [
+      "딱풀핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "딱풀핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-028",
+    "nameKo": "모야핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%AA%A8%EC%95%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/bGuk7yuHP6vfvXPd730uCDpQNqtDYLNhgQHKtLRzpfTQxUieQq0KFZRvdt4AY1lY5ST48n488Kss6Jes5FJiteNqI9zW9fvp_qDOHvZOeLpE6TvxzYZFoCrIj4IBiSsbP1XzAL7iasEA9Y5c-YLuXQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "모야핑 티니핑이에요.",
+    "hints": [
+      "모야핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "모야핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-029",
+    "nameKo": "토이핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%86%A0%EC%9D%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/tyKjpRIfwo-nx3sLKJ-VQ1eCG6xaqiRFblyFwKR6uB2-WBN-DOru228AjocSkfkRuP3g58gviQcD33S5xcWdtZdunMqIRqH1U70CvO2TCeyVDn7gJYUnOMsqgbTM6JYG9q7psd3LSzEQp_u9INRjRg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "토이핑 티니핑이에요.",
+    "hints": [
+      "토이핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "토이핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-030",
+    "nameKo": "또까핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%98%90%EA%B9%8C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/kvrVFaf7k9taFhKFXG_9r0DrEGF-38_0TIS1aE7lJjDyNKZxulPCNt2h0hr-OaMrKXnNz5RN6y87Cz7oVsUHc9QiQ11fqQY6_oEeX5imq8uAaH9pSnjdMRIE-u4O7H6hYwFGUYbcorlo27vYezrePQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "또까핑 티니핑이에요.",
+    "hints": [
+      "또까핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "또까핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-031",
+    "nameKo": "플라핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%94%8C%EB%9D%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/80rHWmIJ0MDwyzhRa-HRhJtxEagD7hvjITNvUaFqyfXDoyv1cmx2Wjhi_lIFBm_Jjszx612QrL78jg-5BzV317z_97dcXSeo9RfePM8S8Mjb1gFNFsZH5gBugolZCmquY5_uUc-QsGQpMUObgALiiQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "플라핑 티니핑이에요.",
+    "hints": [
+      "플라핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "플라핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-032",
+    "nameKo": "노라핑&노리핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%85%B8%EB%9D%BC%ED%95%91%26%EB%85%B8%EB%A6%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/hsZIySKUEXmxHxphpwrX_F3HDcsmb-6eY10PJQU4rjycyBOxnoDKzt99PwVQyY2mGhgVAaC06aTVsiG-gnHIPfjpPx0X_Qz6uBVIq5FlTqCZ7cLSr37JmJUSh_o06uaeq1LevfBp4AqWt_3-r03vsQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "노라핑&노리핑 티니핑이에요.",
+    "hints": [
+      "노라핑&노리핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "노라핑&노리핑",
+      "imageAlt": "노리핑 노라핑",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-033",
+    "nameKo": "아휴핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%ED%9C%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/9BCcSexv6kNIXn7x7jNgj_EmQC5C2UDz_3D2uxVulT-d88SbOEN5DGY5pQe2Ab-w0y6miAUdSRuhw8JzdvXdaqDoi30nZStNEf69nItyqhQ9UgpL5u05427NW2nFO7SsjFk7n4lZmJVgApnD4WmXdA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "아휴핑 티니핑이에요.",
+    "hints": [
+      "아휴핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아휴핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-034",
+    "nameKo": "똑똑핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%98%91%EB%98%91%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/yQ4nnH0f2jaKw1c9wUQLDPJvNSg63V7GEfqfUN0ob8zpL0h6lBXMHXiQgyUgwo_ILeThhOkuQ6_J5RMYP9RANotl87rQhbyIoXyCZhoGE3QMMV3_yv22ANtvu4eD0AWn6NnimI8a-QqMj5DeDvPj6Q.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "똑똑핑 티니핑이에요.",
+    "hints": [
+      "똑똑핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "똑똑핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-035",
+    "nameKo": "꽁꽁핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%BD%81%EA%BD%81%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/KfXWZX-ulOB5AWqraXMi8gow1rQ5g17J3WeuHvtN2T6cgI45EEZtvYfXjafLFHNebml9dNR3lMzb3mz_DRZnhGLgBOohKHMR3yyfXch1oLctO3QTj2zw9sDrno0TRv-39iyqlqGAgm8b89kQd8RKPg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "꽁꽁핑 티니핑이에요.",
+    "hints": [
+      "꽁꽁핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "꽁꽁핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-036",
+    "nameKo": "찌릿핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%B0%8C%EB%A6%BF%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/zWFDyO1Q5_sn90tOE9kilSiBKhqr487bbQoss2sAjH-NOM0lHQH6WwvYbheredWHz0U_QM23iUznKuVfatMoMVkzdh_fdXn7IykEcPZDhYoF5-9f5aFUsnom7I5H1kX8LnHaFM2M40tDHPaFJmY_cw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "찌릿핑 티니핑이에요.",
+    "hints": [
+      "찌릿핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "찌릿핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-037",
+    "nameKo": "홀로핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%99%80%EB%A1%9C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/7gcmknMCNAspjJrxmTaKlAgpM4Q2bq1ukLf3DRqlGxF2xiXujw_al4PmIJs0CitoWSg3XxdDfHyCC9V-ZLQhqm08bHcxVsqZ-PGSbuoUE5Oi1M9_Da7yb3YiJKcqB3t2yMu7EdHeIqlXEOnSmKySow.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "홀로핑 티니핑이에요.",
+    "hints": [
+      "홀로핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "홀로핑",
+      "imageAlt": "무제63 20241004215...",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s1-general-038",
+    "nameKo": "앙대핑",
+    "season": 1,
+    "seriesTitle": "캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%99%EB%8C%80%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/X9s2XyX-Eguh34VrvMaRYWX0ZQPAMXWshlQNQoeG9ntPjuhc9x2DBM2B9Yl3nUXdLIP4-N6T1U6xogqh6wmcAue4ZGjYF_MfDhiOqvChwPU4ai0hb6pbIAcE1koz1YBcwXiFWeYzB03wIf45quULUg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff8ec4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "앙대핑 티니핑이에요.",
+    "hints": [
+      "앙대핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "앙대핑",
+      "imageAlt": "앙대핑1",
+      "sectionTitle": "1기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-royal-001",
+    "nameKo": "다이아 하츄핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%ED%95%98%EC%B8%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/85cxtvTluHklHvoyOpoGxC25eKWe-2ajvMLBSgLb_vZRwYy-voZErHBS9akU7q_6VWH5oMcXPN6VneInNEP_uacmK9ooo-yi1JF542QtAvW337tgJ5c7gFWNefeVYyxpYHBga60EY6GWvrI0cWCA1Q.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "다이아 하츄핑 티니핑이에요.",
+    "hints": [
+      "다이아 하츄핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "하츄핑",
+      "imageAlt": "하츄핑시즌2-1",
+      "sectionTitle": "2기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s2-royal-002",
+    "nameKo": "조아핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EC%A1%B0%EC%95%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/sUum0MywNWtwE8M_Ft1weQIYL-U_JlRbUjBHGm7w_SyutTxBFSb7FjocP7MpW8_Cuv3NuIThgPypX5PZg9I5BGFR2n5ZiPZLfKP45hgfBpXLyeFmbWom7Nrzs3NMrOS9Ex-26jtjVAPToS72hZL-zw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "조아핑 티니핑이에요.",
+    "hints": [
+      "조아핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "조아핑",
+      "imageAlt": "조아핑(티니핑 시리즈)",
+      "sectionTitle": "2기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s2-royal-003",
+    "nameKo": "방글핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EB%B0%A9%EA%B8%80%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/4Gmggh_hPH3j-dxVeVA1BgLv5yNwLRZV8VYNWYGKJWeoNSAVgvKR7n3ysLfvm2f708RAJcfaSa8Q2YEEef2jkJOyPlwGH4fc1GSrLJsM5BaEDcvb7TJzkzyyq25PrDq4tY_OhpOoncbfvEC1kG-c8A.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "방글핑 티니핑이에요.",
+    "hints": [
+      "방글핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "방글핑",
+      "imageAlt": "방글핑(티니핑 시리즈)",
+      "sectionTitle": "2기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s2-royal-004",
+    "nameKo": "믿어핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EB%AF%BF%EC%96%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/R0ZD-NDmbzsFRgUmfZFbwGJO_RSv89rqqYXtEazd-Uu_JjmNUaX5fh4THIHdwgG-fZh_GcrQr0MiUArz85qJhbdzQHyAXPGa6XpGbu3gnGThte3RKvRzAO6s6VBh2v_pYX_XNA6m2tdT2yLTBvJbGw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "믿어핑 티니핑이에요.",
+    "hints": [
+      "믿어핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "믿어핑",
+      "imageAlt": "믿어핑(티니핑 시리즈)",
+      "sectionTitle": "2기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-001",
+    "nameKo": "까르핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B9%8C%EB%A5%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/an7bODMd4_FSAAakp1Se9PYGg1jFb0OHbbjxeXymSU3EzKNfX9ERxxQp8gLM9DbtVsR39Pr3kcxN1R-K-_lyUQFeQuTTx-pA3WYFQ2Z9OLC_vb_dpbKtTee-ko6rWCLYopnrLDN9BI9r1KtOUGWufQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "까르핑 티니핑이에요.",
+    "hints": [
+      "까르핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "까르핑",
+      "imageAlt": "제갈공명핑",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-002",
+    "nameKo": "아야핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%EC%95%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/Dz4Zu1AW4KRcwke3AC9Y5i1dL43z02ielGvI8QwLvBY8uOqHeapXPj5Yb9-fgC517fWOTE4F_b4f-NhPPwweGLAJQ8VAbziqwgoevcuiCBTC2I41juRF3-egSsEQFMSBNsqlO_lZQRwjg6IHROUtGQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "아야핑 티니핑이에요.",
+    "hints": [
+      "아야핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아야핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-003",
+    "nameKo": "소원핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%86%8C%EC%9B%90%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/A_otTyurR7JhJg7hsSZdx2kKHd4dNiy_j0xGbBOMs8MoJhkiqbpaJU6w3-14zz4q5TPsRitayPHG1BO_EIpgCly0sHcUkhRj3BJkxi7uR7XfbJiK_RT32myfIeCqrhaRknTFtoumiuC3V9PWR_BrHg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "소원핑 티니핑이에요.",
+    "hints": [
+      "소원핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "소원핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-004",
+    "nameKo": "토닥핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%86%A0%EB%8B%A5%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/r0hDElXESM-YMbyKWtiAxd9DelwUOrW0P4pQcrun1XiCkq8zLj1ozWZ-W6vRd5koApdpvZj0slHjSRKaQOdiOXDC25bSwAqlX4szGAwUlSGQIBtY3mxCddGLPJST_fDt1Zhv_mIXU0ltjWyLtA8SXQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "토닥핑 티니핑이에요.",
+    "hints": [
+      "토닥핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "토닥핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-005",
+    "nameKo": "쪼꼼핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%AA%BC%EA%BC%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/58mus0F1Q1XE_rX3gVQHo3JMr6pUdfcZiv-XmYQFTS0HI2p6PvfZffZVH_H-exc5tbGQnAEGkklfMz8xf5Bz7OSh_16iRsiWDCnb-E_72p6xuJbxvkomyPQrRfX6OOt2djICXosIC4qFxE4JRezkPg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "쪼꼼핑 티니핑이에요.",
+    "hints": [
+      "쪼꼼핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "쪼꼼핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-006",
+    "nameKo": "싹싹핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%8B%B9%EC%8B%B9%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/zSAZPf7LnUWDjE6G5v5jC_RvG0sENZqHc7pcWg22r5xCaJtFS2HrxhuPUt_JPVBcvAWJ5raVsHu8Wd1qp5Mw64s4GvoTHZj6XU_lcdVMkVMbq-VsjHjAcBf4QUsCVWNUWTaIV2AZsQGlqhcLBAXi9g.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "싹싹핑 티니핑이에요.",
+    "hints": [
+      "싹싹핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "싹싹핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-007",
+    "nameKo": "맛나핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%A7%9B%EB%82%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/englVXPCkxGklnnvLvUiVvUDnnS8FHLGV9kN7xo6m7chJRaWyZ2tC7hECTDoPs_YnjK6IDhaR3mVK-v5fGwj3-gdSoOesOQVNfi0d6sINl-5adqhGT8PK6z25jc5BMSMhSDQf0pvJOhAlra-LeeSsQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "맛나핑 티니핑이에요.",
+    "hints": [
+      "맛나핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "맛나핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-008",
+    "nameKo": "포근핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%8F%AC%EA%B7%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/VpOx_P4q6rhUpXtq1WlpAX5RjY65q9YB4kSFt6n59anuq4SHIWWifbr--Z_MeJQzOXlb0giFx6VCh19y9Oz185XPkJnAHpBZ8qcH_MWk8D-fnXzAV-kkEH_ycgHWYd2uW9kvDEhJ-_Uq2w8CsbaqzA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "포근핑 티니핑이에요.",
+    "hints": [
+      "포근핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "포근핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-009",
+    "nameKo": "메모핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%A9%94%EB%AA%A8%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/8bcbYmo63H8krAzMld70k_hLnyxwru1ACgxnh4W3ZOmIUx2rbVG4f16smiQ_3E-rSOPK3DyOgKslVbYu7Dr_Apn93Qh3a1O_4wMDkgD363qId73EGZwPAmNOLSAuhRNl2defjA2kf_I1LFDJ8z0vjg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "메모핑 티니핑이에요.",
+    "hints": [
+      "메모핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "메모핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-010",
+    "nameKo": "다해핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%8B%A4%ED%95%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/O2SYiho2exiqw8u1gXkKBqBi2Iy57MH7ku-fO7aEzz1xm6fdh-5ipDNbZS8N9v-11BiT20R0Ohyr2o1kCYsefzHaKRxGv3eMhvRfc_JjGQpqEOqGDkTssi7Wp-uoC4l_uWHJkr7MYr4QOd-vwfcDYg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "다해핑 티니핑이에요.",
+    "hints": [
+      "다해핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "다해핑",
+      "imageAlt": "다해핑",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-011",
+    "nameKo": "공쥬핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B3%B5%EC%A5%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/wk7ONd_gWEBfWZD5P9bylEWiH-KthV6K5t5qHYY-dEym2Lc9-f3ggy4Jejif6KIAETB1N8Dlxrf3BGEhu6D5qBzxlU4JsFi2DvukG43_VUHDk9n5J9ArZnZ5XZQhJMluWAewT76AgW14TKVUrkliTQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "공쥬핑 티니핑이에요.",
+    "hints": [
+      "공쥬핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "공쥬핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-012",
+    "nameKo": "짝짝핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%A7%9D%EC%A7%9D%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/KvZVk-wTfyEXPTooZ1-8noH4yaa4Fz6jLRTMGUJoWxdFjzZQ39Hy6J-otq5PwDlymLZsTjm0PdmkPHglHRPxAS4JSwkAmo6_WKNXn16fMGWTJFBCJ52qikVFR4FIvja9qZaHZQIu70zamXVaImVOtA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "짝짝핑 티니핑이에요.",
+    "hints": [
+      "짝짝핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "짝짝핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-013",
+    "nameKo": "주네핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%A3%BC%EB%84%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/dgNscvzviMQKgZl7qdslOIkP_v81HBZzQJpz-dvFX7yjPrI8H8jdQ5BS0pAnS8aQUb76Ogm0aNGXsqGNv5Cr1CSFPxNQ6FzyEGTfeueAKwo4Sx2XL5T0m16YoZyzuh0LWTGL6XJjRi47tKJFj3M90Q.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "주네핑 티니핑이에요.",
+    "hints": [
+      "주네핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "주네핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-014",
+    "nameKo": "뚝딱핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%9A%9D%EB%94%B1%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/bmueGfpXu7jJgxujQLPCTaTpf0dKjjZFlfifL2Ne2zP3l7jyHMpMmWdxoLUm-PEoL43e8Vk47C7EBH8tvdYqqRNgxXNxbLBpUv1zSKCAe5H2SjJIKit01iMsNUpIVQ4AWAEdwGQkkK8VAMssNzpmWA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "뚝딱핑 티니핑이에요.",
+    "hints": [
+      "뚝딱핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "뚝딱핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-015",
+    "nameKo": "발레핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%B0%9C%EB%A0%88%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/Nf3Z4TGEzWk7MooWOnPMy_sCptNDCQRPgq8IUWU6CeBB_cm0qmRLnrqI9dwensmipnH0kE92enn_O1RCbhWGDi16NYkvlN8LPSjfYn9Qa8nNsnWK1OcDr4K1ixmhwa0eOW3SUiOn05ki3HHACKE4Gg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "발레핑 티니핑이에요.",
+    "hints": [
+      "발레핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "발레핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s2-general-016",
+    "nameKo": "원더핑",
+    "season": 2,
+    "seriesTitle": "반짝반짝 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%9B%90%EB%8D%94%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/zD7piIW9Z6LWMv4HlzJr7gpqBidBZs5V5CXB6OGEC9sYrr14WaEwIKTysVpX82kCq_5FfdvTb0Wrw1JODP56eeRnEPhPbWp8kZV7JUirbNYHvUdj4erHfk_qAdk1pXJTu0wHckwNh0YsSzMsslpFHg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#8fd6ff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "원더핑 티니핑이에요.",
+    "hints": [
+      "원더핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "원더핑",
+      "imageAlt": "무제63 20241004140...",
+      "sectionTitle": "2기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-royal-001",
+    "nameKo": "플로라 하츄핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%ED%95%98%EC%B8%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/wDGL6jAbSENtP0FshEQ-kdrtusJq8MR3MJz-dLmiHGjUq6gAd102LSJcSYKPZU83IL3NPDtewVydjrrlVARoIWw8OtBz9ByWdFr09tC2RYTkIMk85wLPLy5dSF7vQWSRUkPO4q0e7Np8abBRPpE5NA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "플로라 하츄핑 티니핑이에요.",
+    "hints": [
+      "플로라 하츄핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "하츄핑",
+      "imageAlt": "FLORA-HEARTSPING",
+      "sectionTitle": "3기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s3-royal-002",
+    "nameKo": "꾸래핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EA%BE%B8%EB%9E%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/VvVD7GKFBkQysnY4NdAVMtGbDiSQ1FvHeoYu21VABc21R0Kd-K6CRdfdY_1wwX5tT-v7QUp96EP94Vwb6a8fjz8jCdqkVbetOo-8rux2OXPKIsZG0qveWUKW5c84nZjfTac-NCdUI391mSTiDJJ6gg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "꾸래핑 티니핑이에요.",
+    "hints": [
+      "꾸래핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "꾸래핑",
+      "imageAlt": "꾸래핑",
+      "sectionTitle": "3기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s3-royal-003",
+    "nameKo": "솔찌핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EC%86%94%EC%B0%8C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/fzelLKnOhuHd25dfWv9Wluk3RPAk-12NbMtqaOgik8Vke2o71zPgkau5EWJtPS7FeSvM1Ay8Csu9QiFZ88I1jKpjgu6ffHZdNgL9L7_JEuzRwZl0XZXk6A5UXQaHy35yN63hugYEl6AKVsugH1gyXA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "솔찌핑 티니핑이에요.",
+    "hints": [
+      "솔찌핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "솔찌핑",
+      "imageAlt": "솔찌핑",
+      "sectionTitle": "3기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s3-royal-004",
+    "nameKo": "나나핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EB%82%98%EB%82%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/YOV4BDS00Qj_z0RlciBiiwcnlNSPFNgH29eFJ_cCGITm-dCF4Q3jT1hoFiAPk8a7I1BwrCACVti63pe3tNYBWovCdXNSjzdYiTSO-K9Mr2OV6OwWghoDyc6FEZ2zW8F2-lwaTssYx-vd_zcIzAdJzQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "나나핑 티니핑이에요.",
+    "hints": [
+      "나나핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "나나핑",
+      "imageAlt": "나나핑",
+      "sectionTitle": "3기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s3-legend-001",
+    "nameKo": "행운핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "legend",
+    "sourcePage": "https://namu.wiki/w/%ED%96%89%EC%9A%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/wnFcDUM_LeqVI0X0qx2sKYnyR0G3sNkdIl8jaO6kcyNrjwMGB_szzF59jALh09zVXgDku5Kq85H9b0VAn8OJqL5mihB47WG8_MeMKKBjZQgbWVeHDTXIHjaURe0bqR7sbTWH1GVwa3q8lTjbqwETFg.webp",
+    "difficultyBase": "hard",
+    "themeColor": "#98df99",
+    "accentColor": "#f7c95c",
+    "silhouette": "star",
+    "summaryFallback": "행운핑 티니핑이에요.",
+    "hints": [
+      "행운핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "행운핑",
+      "imageAlt": "행운핑",
+      "sectionTitle": "3기 레전드 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-001",
+    "nameKo": "빨리핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%B9%A8%EB%A6%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/kooXLkfrU_Kf9biaxgD0YWFE9ylpgwv6V8our7AHzWFsSkAEGIQGE824nGHzSC0Oq4ioYAXPkAuf47-IEJnQs1w_qcrEagEHKXoZ9EE4DDATwRJb3TSW8oWfywJ7Ihood_GXjHVHSetqv1j0Mhjhgg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "빨리핑 티니핑이에요.",
+    "hints": [
+      "빨리핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "빨리핑",
+      "imageAlt": "무제63 20241004182...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-002",
+    "nameKo": "얌얌핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%96%8C%EC%96%8C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/ya_SeYskRIF5aMaZubpKu0396Zo26RTW6jzh9MVZfp6SbVFkIC2ucQHGqryVyfN6MFkHFI_bbk1W3CEtDFzWVcDEvt0A7ATXtFOaeB-PHpXoBSCqjY61kEMTAZGMK0jaEzejliIZNK4-hnNHFNmr1Q.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "얌얌핑 티니핑이에요.",
+    "hints": [
+      "얌얌핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "얌얌핑",
+      "imageAlt": "무제63 20241004142...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-003",
+    "nameKo": "뜨거핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%9C%A8%EA%B1%B0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/HMcklqSUjn-7yIfeR2rJBb0ws1jReEEzMUQl448gjXjl3bHH4xS_-wIpoffCYrdoqr7Vst7vQX_uwQoAYQGAniRCFIs1-X7POgZa7VRKZpOe_byd9N9GLackQQKJ22h7q0N6V5qytPfqq8ckZnR5Hg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "뜨거핑 티니핑이에요.",
+    "hints": [
+      "뜨거핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "뜨거핑",
+      "imageAlt": "무제63 20241004142...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-004",
+    "nameKo": "삐뽀핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%82%90%EB%BD%80%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/jIMR6i6maQEfhVI1lJ7wy_ccp3288OWl4mBo-nLrTweLW_z0_CNZbKzJjYUj7jI2f1M12BPNAROdEz7TQy-YZRKeTnO88wm5acnaAnl16_dy0qUhY6xJZVBQXUJyFKweJgc6wVgboDbtPbyX525wZA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "삐뽀핑 티니핑이에요.",
+    "hints": [
+      "삐뽀핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "삐뽀핑",
+      "imageAlt": "무제63 20241004142...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-005",
+    "nameKo": "간호핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B0%84%ED%98%B8%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/BLds0zAVdqd60_wmDCyqQMbgFxyiLYTcDajcsd4Gb2eKuN2LQZ4fWvmgKXOofpP8oNp6qkk9IGOQtJLueui18Lpw04bAQe8qStpTnSBNyAezcB4L2SEkXyDq15wCuVbiqqJ4ekAnGXvGEyNRm_jRyw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "간호핑 티니핑이에요.",
+    "hints": [
+      "간호핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "간호핑",
+      "imageAlt": "무제63 20241004142...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-006",
+    "nameKo": "힘내핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%9E%98%EB%82%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/8v2W8k9WCLyPdi4LEAJFWfQ4Q1nlDRbxEStuwBnV86fEtcgq4dEbrffHhHfC_DlDdIVtiWietGcbKr46Qtbf5Kl0y5O7b-Iai3p_UkwuQnUBB3DCD4U6Qo40a2nKJLsNTN2NyywDHpBQxS5_zxRW-g.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "힘내핑 티니핑이에요.",
+    "hints": [
+      "힘내핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "힘내핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-007",
+    "nameKo": "고쳐핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B3%A0%EC%B3%90%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/3KRwGIJwb8NcHGu1yy75X_-dBIJgEuqHC5X0lcCRRj-TRxPRWQu9rnaF7jTjOG5gAtcSz_o-A14-AkffqaYn-XkRDG_X_4dnwPLm--PG8oN9ax7sPPuJV8IpUDC2EMEK2b8pPGlBNQRy0JXCL86Sug.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "고쳐핑 티니핑이에요.",
+    "hints": [
+      "고쳐핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "고쳐핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-008",
+    "nameKo": "아라핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%EB%9D%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/RPkq1rghEGin9lY--jnv53tD6fVi3yh1DGI_niCaysw4TYXXQcRHwg3RrroKqHuIsi_vAkhju7v0YbN7DisVx6kmUVVwZZWakepe9cKpuoqEBQa0vl2DS0tBmpnsXSVXKXMVLiM7XbcgsRutv-Xsjg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "아라핑 티니핑이에요.",
+    "hints": [
+      "아라핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아라핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-009",
+    "nameKo": "패션핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%8C%A8%EC%85%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/ZxoBzenKs3I8gFF-h7sFBfiTpbgQvcFCnoBMdU_Lo4xOnoCaG-VLBvNJyG7OAZeqD1WCwdphQgJnsipAJHO1kK79i6rwGLAnE6u8VY0Xro6EnVaBmpM4H5vrNbTEW73qaALyf6clkE-5SZoJ_GAYmA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "패션핑 티니핑이에요.",
+    "hints": [
+      "패션핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "패션핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-010",
+    "nameKo": "꼼딱핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%BC%BC%EB%94%B1%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/HII8Ph2vzdRQVkeKlIfbGxJWjMftBzF7p0NVfGq8Ygp7VcOQGWlAz8BEk3hsZrHT2HKcp-xnT3CLcswT-ZNR7DGmOwYOI5tUC3YGv18rsG8jMsjRyE4HsvEA7dR7E_yzP4vcBwpVZBa2HkUnYKeALw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "꼼딱핑 티니핑이에요.",
+    "hints": [
+      "꼼딱핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "꼼딱핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-011",
+    "nameKo": "퐁당핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%90%81%EB%8B%B9%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/k3SLLoqbuE3T87-8yqLdGwatSw82AUfEw9AVH2lteX9Pf2vRiMZuWeR_v_OjVPtxyyyH8Valy-_XK7rTsGL4yBbGyNVA5C6eJbaT0lLzzcluH8HTkXyJ5-8kULLMF65djTsAfPmNGCpKf-iSXi4f7w.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "퐁당핑 티니핑이에요.",
+    "hints": [
+      "퐁당핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "퐁당핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-012",
+    "nameKo": "파티핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%8C%8C%ED%8B%B0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/df6DE6dcRve6FJQUHopDbZhHuUwYxbueOJz-MJzTk2E7Nr-dMzp9Xc5g6l7yFWeth-zY39mBErDZTAIuPE1Hus-Io4vAyxSaibJre4_R15UrJIRUg6cTI4BWExR3WVjW6bntxaIi7OG6WxEyb9QFGA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "파티핑 티니핑이에요.",
+    "hints": [
+      "파티핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "파티핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-013",
+    "nameKo": "꾸며핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%BE%B8%EB%A9%B0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/tjghNWdiJkDfXfLsi4k6jnF89ZWP9ihoKAMVaTlJGtLoca2c7zhepuSPhN4_SvJ4daVU3d5xYVLgUxViRknD3PHhXtrtTAGHuWmfSXTYVA-71Z8w49OfjAnAZUZ9Xi-fu2W9GiUmejzIKH6y3gQfag.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "꾸며핑 티니핑이에요.",
+    "hints": [
+      "꾸며핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "꾸며핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-014",
+    "nameKo": "삐짐핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%82%90%EC%A7%90%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/DdAvcXuxnJ-0WRJbtgcvrBSBPF4ayDI0jz5llYqNeevFI3WA7OTzZP0ePhWvj9j2Y9c9PUpduhGCAv6iHFoBbSBgX4B3O51xy-6t1NRz-26wJOYKa4D0E9dnEnKiAInZzTrad5lFPPUL9BoA3q2n8A.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "삐짐핑 티니핑이에요.",
+    "hints": [
+      "삐짐핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "삐짐핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-015",
+    "nameKo": "아아핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%EC%95%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/dYTjWESE_DgqTqn6_JpbPWn1wyxGXBqnCkXT7W5sNfpVE8f2WnikCLtMj2ZdSoJSV2vU2FWG06MmNiU3SGvbBvqukQmY0HGOcAp0twX_v9ULoqd2P1MBOEwQ_6H58_mL0lBSPc1qKkJObBPZzi6-EA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "아아핑 티니핑이에요.",
+    "hints": [
+      "아아핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아아핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s3-general-016",
+    "nameKo": "빙글핑",
+    "season": 3,
+    "seriesTitle": "알쏭달쏭 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%B9%99%EA%B8%80%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/x9Jf_JZPLmhMWvdhpPPfsQOSYJ_aOfC5siG3hxEg7TKKMz_vJPNHEJakVsP-_CAyTvBLslGmV2B_xzX7sof2SgTji-mf_u6uv4IPBWVkdvkIPEMNTr7R_LUw6lPTk0eSgNDLQCW9beluf5tCGgih1w.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#98df99",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "빙글핑 티니핑이에요.",
+    "hints": [
+      "빙글핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "빙글핑",
+      "imageAlt": "무제63 20240923001...",
+      "sectionTitle": "3기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-royal-001",
+    "nameKo": "베리 하츄핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%ED%95%98%EC%B8%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/-TKGVtE9ni_bO6esb42EiXGUlG6GfTcTSt_raxiLIg7J5a0MCX2xabT4z6nKG8aNfRDWDm7K2lGUtUebjxjJXHDOB_4nVCyjfAMDMoSxt3Aj5kekqRtAolhnCUzJZ-R6nvNR9QM85y30vkGD2ytedw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "베리 하츄핑 티니핑이에요.",
+    "hints": [
+      "베리 하츄핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "하츄핑",
+      "imageAlt": "베리하츄핑",
+      "sectionTitle": "4기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s4-royal-002",
+    "nameKo": "포실핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%ED%8F%AC%EC%8B%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/cFCXscEWCmjQIedMvYUTRrH9CsP86ylIqrA7vRajfH652x-wMLtSrvmZ2NBDGVA78qiVfFYLCkzrE7C14d3DfKUA3NPglUVIZUhru_Ts22PjnlAi48mUh0_qYXO1OWU28bl886uqEKdMTrmNP5431A.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "포실핑 티니핑이에요.",
+    "hints": [
+      "포실핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "포실핑",
+      "imageAlt": "포실핑",
+      "sectionTitle": "4기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s4-royal-003",
+    "nameKo": "말랑핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EB%A7%90%EB%9E%91%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/uWqWZEvtiSwwHphV051-UyaW0PrERPg-aDnMhWmUPUtPfuihxY8c_A21A4baxjdoFb1DOLLzKDmERKJ6uwObaBQ-ckmy5zLuNByhWchSpiM0ad2wNGyCONMkouJWsgD56o7gSJtzr0dlLW9cd26ksQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "말랑핑 티니핑이에요.",
+    "hints": [
+      "말랑핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "말랑핑",
+      "imageAlt": "말랑핑",
+      "sectionTitle": "4기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s4-royal-004",
+    "nameKo": "샤샤핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EC%83%A4%EC%83%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/EwfnL7igzPwpRFHr1mGGrUgcWtqGeR42ytpbBAPqCl37GNLBcEwfhKuNB2kWcy4oHfS515Fj9jo2lSNzTuqzoppOBfmv0ru4JlS69wc9UlrFlk6wag6pbyt2qRkUEESse4IhJYYMhpFBhFBLR5dkVg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "샤샤핑 티니핑이에요.",
+    "hints": [
+      "샤샤핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "샤샤핑",
+      "imageAlt": "샤샤핑",
+      "sectionTitle": "4기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s4-legend-001",
+    "nameKo": "새콤핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "legend",
+    "sourcePage": "https://namu.wiki/w/%EC%83%88%EC%BD%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/UA7SgPnPdTAzF2gzPagtuEOv4Rv2KzcI_3GmoacmZY4rg7419xCCZPcrFXU5ABDv3b7LAo_g6AIYh_c1Cdgnv7o577ub3SvkT1nJQApIOW1ojTgSzyiUAW8LtKmrIbdbRN_NQH-ilCTn5llXmeNkrQ.webp",
+    "difficultyBase": "hard",
+    "themeColor": "#ffb36c",
+    "accentColor": "#f7c95c",
+    "silhouette": "star",
+    "summaryFallback": "새콤핑 티니핑이에요.",
+    "hints": [
+      "새콤핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "새콤핑",
+      "imageAlt": "새콤핑[1]",
+      "sectionTitle": "4기 레전드 티니핑"
+    }
+  },
+  {
+    "id": "s4-legend-002",
+    "nameKo": "달콤핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "legend",
+    "sourcePage": "https://namu.wiki/w/%EB%8B%AC%EC%BD%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/b8IH8pCj_UdlOB1o8FFAd29JX9_4zGYJot0iplV8T4axXBIL55wrLfhrQ460toxfF_NAjc0MPRAAN4H1ffGrGD-SJ4W5EgedVG0qOYKzSC2WiNJ7GL311eUDHccMJjOiMg28BmmlFHYRL_OjVUmqEA.webp",
+    "difficultyBase": "hard",
+    "themeColor": "#ffb36c",
+    "accentColor": "#f7c95c",
+    "silhouette": "star",
+    "summaryFallback": "달콤핑 티니핑이에요.",
+    "hints": [
+      "달콤핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "달콤핑",
+      "imageAlt": "달콤핑[1]",
+      "sectionTitle": "4기 레전드 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-001",
+    "nameKo": "뿌뿌핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%BF%8C%EB%BF%8C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/LwDUYHM4ISTPTiDdQb7Oy5uAP3FiIOq9RB0TEF9FCuBCQRIE7qBILkmWM3QrcTcTbs9kfoMTx1781waqZYJArIlQSjdf89leu1kWdyOjAw0kKRPbs3xuhjzzNAbtDtSMZzS_59yKmSh3k6XTNCT63w.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "뿌뿌핑 티니핑이에요.",
+    "hints": [
+      "뿌뿌핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "뿌뿌핑",
+      "imageAlt": "사진 2024102318250...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-002",
+    "nameKo": "캔디핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%BA%94%EB%94%94%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/0W9mOlY5NeeeoLPHEN7VT7Gge3l4kiatFgueZF56aaVA4bSi-e3HFiPbMGsjvWmPOdpif4aL-e889lNtr5_Iz2F-b_5REa7Ty3iCjFa7Ut68Y61c24SyhQwNSpFmKik2sv0N7Vt6In9ASfD0R0exTw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "캔디핑 티니핑이에요.",
+    "hints": [
+      "캔디핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "캔디핑",
+      "imageAlt": "무제63 20241004164...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-003",
+    "nameKo": "머랭핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%A8%B8%EB%9E%AD%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/A7POBJ7H2Ab-zE9DH_QUkR5CQPg7keSrcK_TyBJe53auJvMtR5ZFp1X2N5L5pdvk3DDSvtJqC-DcFj84NDRyfPkW-pXOeRFjhUhJXk00sO7zO59L2ydrZub6AABYtdHDWtYDDUZvl9gI3WLiG4ReJw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "머랭핑 티니핑이에요.",
+    "hints": [
+      "머랭핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "머랭핑",
+      "imageAlt": "무제63 20241004164...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-004",
+    "nameKo": "샌드핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%83%8C%EB%93%9C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/RDZY2W2OQ5oIkJo7IOJLPpqR2Y7vY-nKnt3bNVyUjL9Fx22zFxwBrltNj1Jko6aMWE2e_TuldlpkrgZ2s5HLdc2zsKyo92qI75GNYUDCTKczPibth7lK8Pmsp9eTRxxPAD8wtyA-32ynNRrW_BTT9g.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "샌드핑 티니핑이에요.",
+    "hints": [
+      "샌드핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "샌드핑",
+      "imageAlt": "무제63 20241004164...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-005",
+    "nameKo": "또너핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%98%90%EB%84%88%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/wObzMB_GhgwKiKGxqflbuCdQP9PsdXjTQpMosKpa_IM2waYxNpqQBk4EIH2lDYZcvboVioHYE9ooXKsEHQzDzDFolDta7RofusYVZpZI-Gk1765WSt3gqwH3_f97BQx6pLa27dcR-9ox_7HHB3JFvg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "또너핑 티니핑이에요.",
+    "hints": [
+      "또너핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "또너핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-006",
+    "nameKo": "와플핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%99%80%ED%94%8C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/56OR8WgIvzIOUOz8k365f5xxx93ETOFOL1x8VKksjZXEXUeimxMIO4nqH1odHVUQrVe8vjgWYdJepKggN6vwHBwKSFFB69GIOyWTkRoN3D-VMrdPMxA4w1V1FY5X5-P0hs7XC2g-58_WBFlwLMLCqA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "와플핑 티니핑이에요.",
+    "hints": [
+      "와플핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "와플핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-007",
+    "nameKo": "롤리핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%A1%A4%EB%A6%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/X34hgBz9B0NTj_TdJJuSQeya4ATdXVOiD4EhhGdM7I_0ZUZ05nX8anT1HIj2cemF5T6Qb0AQmFTjmJRYY6Vk8Ug5TRQe1r453sBexXHknPITql0HjB9JBqQPV7H5Ivwj4Jk3zwmvdR5iRb2ErGcA6A.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "롤리핑 티니핑이에요.",
+    "hints": [
+      "롤리핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "롤리핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-008",
+    "nameKo": "마카핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%A7%88%EC%B9%B4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/WUGHQqlb9RaSmf6_oIIdL19lPAzxFnjxDU8Zb_-S3b26YTZMe4NVuMRVk3_kEZfA5zui4O4q8VHIJkQJPXHsltuW7ekrsoWHoftOOz0DPJU8grT_NJT-eMmi4qpqhUu6CK5II0Mw3Q_So2dyyTowDQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "마카핑 티니핑이에요.",
+    "hints": [
+      "마카핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "마카핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-009",
+    "nameKo": "핫케핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%95%AB%EC%BC%80%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/9hvKsEITw8xLW1rRV2gKJRs0o94sYWX-7bHW-eE1TYoGZUQXpyl1Z2m32_MOEG8IpktNzFuSH3uEKN80K3mQ5s9OOsOvk8yXqTizihz_A-o32IX4lWXI891pWYQfcTiUUVz4oIjqteM3R2zfDxX1Tg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "핫케핑 티니핑이에요.",
+    "hints": [
+      "핫케핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "핫케핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-010",
+    "nameKo": "커핑&머핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%BB%A4%ED%95%91%26%EB%A8%B8%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/IN_BLU_sxy-KUH4GAsNP5NVGhahE6DSyQgC0Ovgw-6xb6a7OQxZQRUeX9uqo6hoIAOqHgYxUcT0UHCvb8TNBA8Uoy3ANDI1hUIT3ObVRjSyE4EdkaCdyLznqisI3VxFplQ9R_VQ3FBsWM-GAx2n92A.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "커핑&머핑 티니핑이에요.",
+    "hints": [
+      "커핑&머핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "커핑&머핑",
+      "imageAlt": "커핑머핑",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-011",
+    "nameKo": "요거핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%9A%94%EA%B1%B0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/kmZLnhM2H5-BMz9yOcIF5R6Q_CYJb4nQyLdkXgxdGoQyEb1UK1bsMdNaw_erGdbbdbQhMfDxeUXe80ZEJRkJgoKV95LIRrhTHDuN1BjgJ6OLmYorl0SnMzzO9FpM-pQjrz1K_nST-16n0o5b588elw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "요거핑 티니핑이에요.",
+    "hints": [
+      "요거핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "요거핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-012",
+    "nameKo": "눈꽃핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%88%88%EA%BD%83%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/pD_Cy2_3hhqdqMyP5iT8d5sfi2D1Mz_OoewxRvTcbP8hBUz2by1818Vxkk2_R4X2g_NiXJx1IjNDeVR481Lssc8okpR48Jazuciq5mfSXYGMvftcJENVauHsktq3JBvaRcRMPvtKEvFVA_QxvEZZtg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "눈꽃핑 티니핑이에요.",
+    "hints": [
+      "눈꽃핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "눈꽃핑",
+      "imageAlt": "눈꽃핑1",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-013",
+    "nameKo": "푸딩핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%91%B8%EB%94%A9%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/9mU1Yz0z3kRO9iVDQFhYK42Kt12agYXC1bbM4cxdg9exW16owK19dMZR_Hzxj2H7GVS8wGdhvEeo8efacbl1QLPf-lJ0zDDfHeRcE9lFkxINtMfk6JftHjsIyN6AXMD45eqlgCDgVEpe-JPEpWdVRw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "푸딩핑 티니핑이에요.",
+    "hints": [
+      "푸딩핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "푸딩핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-014",
+    "nameKo": "멜로핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%A9%9C%EB%A1%9C%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/lgdxpwqNbpsWwVvqwQyvvQ9fxpy-fl_JMduik8LyDV71IjcdBp4hLz90_UFis98uN6bOcWYFoga4376k1YymRdtsh4JgD1aZd_PTWuXzh9NXZxSELIn4s1V6y25HOTmGcFCbsbILgw9nSqUo9oiv3w.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "멜로핑 티니핑이에요.",
+    "hints": [
+      "멜로핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "멜로핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s4-general-015",
+    "nameKo": "쪼꼬핑",
+    "season": 4,
+    "seriesTitle": "새콤달콤 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%AA%BC%EA%BC%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/tbQFeRHkA-BTq3rL27vFt2du8eJulFLdflDzB0tNPGC-FRFlWrCX_3MJocO9v5YTPUiVqS2H-TMdZBPfmtYgui-ogz0kvK1HCLsuO_9N-JwWB5Tjja2DhIDTxqbqVkALgCHPht2vIZP0Xll5mDBp_g.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ffb36c",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "쪼꼬핑 티니핑이에요.",
+    "hints": [
+      "쪼꼬핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "쪼꼬핑",
+      "imageAlt": "무제63 20241004165...",
+      "sectionTitle": "4기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-royal-001",
+    "nameKo": "스타 하츄핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%ED%95%98%EC%B8%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/3-mBGwSKkirgo6o2BnnrtpGiL8Mr1P6595Qa64ptcftJuY5ubO-mVmpx39QUSXUZ8wK4l4y744FlUaRELXEu9kb97qvuCBpxh15wxGZRbRKNIwTUwTjMJGmWzBRREEPmTqp0lxKJ77sqQujHGfX8eA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "스타 하츄핑 티니핑이에요.",
+    "hints": [
+      "스타 하츄핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "하츄핑",
+      "imageAlt": "(티니핑5)스타하츄핑",
+      "sectionTitle": "5기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s5-royal-002",
+    "nameKo": "빛나핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EB%B9%9B%EB%82%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/XRwgU4RO6PRukGbHq8g2JQzCjDLTv597Q6LDm5_bk6qQZ4nprygHi3jr3wVg5H_C5EnywS0Rka1cPpL1kBWtO6PG0-rpBkg0PxpCukqD5WA3fdcjpCyHH4QFtOIXdMmRm_y5TmhB6TbLh5XMIsMlrg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "빛나핑 티니핑이에요.",
+    "hints": [
+      "빛나핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "빛나핑",
+      "imageAlt": "(티니핑5)빛나핑",
+      "sectionTitle": "5기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s5-royal-003",
+    "nameKo": "초롱핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EC%B4%88%EB%A1%B1%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/qZ0j1eT2ck1HHPew6JKBdSifIV7_uqv6vyzRrajIlRamXaE42bignBXaNY2LC-Wp-ereNmwGqebYgwxdv0PiGs_rhqifETzUy2ut_ecRm8XnQmpCWclOhsa2uV4EjnLipD6M7-gUMzCVszon3TcR_w.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "초롱핑 티니핑이에요.",
+    "hints": [
+      "초롱핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "초롱핑",
+      "imageAlt": "(티니핑5)초롱핑",
+      "sectionTitle": "5기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s5-royal-004",
+    "nameKo": "빤짝핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EB%B9%A4%EC%A7%9D%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/z1l0VOUfP58oXaSlM4s_IMPy8JgJRrRpCjdXndFyRXZ24P7U_0pO7Jgx1AWQEiZByQs2lcl7N3I3Z0ndlF3OmjPHbOhKRKES1LtSlLV1X7xFewkM6PxzRciKbIUhA7HYipOhVI8yba66huz6TBNFjQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "빤짝핑 티니핑이에요.",
+    "hints": [
+      "빤짝핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "빤짝핑",
+      "imageAlt": "(티니핑5)빤짝핑",
+      "sectionTitle": "5기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s5-legend-001",
+    "nameKo": "오로라핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "legend",
+    "sourcePage": "https://namu.wiki/w/%EC%98%A4%EB%A1%9C%EB%9D%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/5S8g0nDoMquDzMZVZcPAY93Xb0ZqM3WmxwmhUVGnxh8aYn-AxS4KsfCoNatk4hUjXWujSThBy7Z-Bd2DEbI5BycQu7M-mgJTosdv3RfAis4Nh0f6rSpnUqNtiOHpMnqNXkL2EVfvz6r2IqQgOIbAwQ.webp",
+    "difficultyBase": "hard",
+    "themeColor": "#7e8cff",
+    "accentColor": "#f7c95c",
+    "silhouette": "star",
+    "summaryFallback": "오로라핑 티니핑이에요.",
+    "hints": [
+      "오로라핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "오로라핑",
+      "imageAlt": "오로라핑",
+      "sectionTitle": "5기 레전드 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-001",
+    "nameKo": "깡총핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B9%A1%EC%B4%9D%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/Q5qABG5WLub73uV-EZhBkMdcbb8eEOAeFo4VP1R2kARGB1SV_heL_lWN8j0kkNqRiOd-g3b59CMKIpkxsvEP96mjAb9IBDcWQhCt_p-phzsmk6U-Dp0JTv0BtTW3Xdy_hsiS-0sUoQxuRJctqqWozA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "깡총핑 티니핑이에요.",
+    "hints": [
+      "깡총핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "깡총핑",
+      "imageAlt": "깡총핑0",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-002",
+    "nameKo": "훌라핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%9B%8C%EB%9D%BC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/X41xkEh0S0iEIzPf3__Kl_IEI-p9TBNmImTDFFe6n04IhNMhLp3RIYau2I6MKqwCpTfHmQ-UInwphnK4EWj-vX13wXFbyyu9RBD4VbWrYtK9v7TSWjhXa3GnOdk5fakbO_xrxisquqPrnC6tTx4PFg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "훌라핑 티니핑이에요.",
+    "hints": [
+      "훌라핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "훌라핑",
+      "imageAlt": "훌라핑 (나중에 교체) 2",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-003",
+    "nameKo": "나눔핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%82%98%EB%88%94%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/ovLun-dDPY73eJNdeVj3-7Ej5EjA29rrPrKSfWhuUrAXkucAR6-7i8OHIsuZpKqlelSLxl1FD15L1DjqS9ib3HZytRevRCw-uvXxTcsvZFnhfxQb4JCmg6BsKdOBTgBXCAVGZE66JqwHssNSG-fxPg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "나눔핑 티니핑이에요.",
+    "hints": [
+      "나눔핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "나눔핑",
+      "imageAlt": "나눔핑 이미지 대모",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-004",
+    "nameKo": "딩동핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%94%A9%EB%8F%99%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/-fFbzAWB4x1J93yVc_M2aUAu19SCcy1NT_pLTyaDrYfVBYJgqck8nfJ6FlY1nDN9_5DEC2acXPALHhqUu9CJM6KDANsMotrJIqD2esr0atalWIvI8a1jFyZ-0LAT5Zxv_2F_2DOi8aXh_E2EqN4g6Q.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "딩동핑 티니핑이에요.",
+    "hints": [
+      "딩동핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "딩동핑",
+      "imageAlt": "딩동핑 핼맷",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-005",
+    "nameKo": "나그네핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%82%98%EA%B7%B8%EB%84%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/TCJBZfPmB9xZj6gVM2ufYLUCXHFBIWobl8MGUoZDyOgpiaUAfMS50bLdRagbXrqnI7XLY7x5t1zC0SmiCJoj1VbvbBZBUadkf4Kh57XGoZ0T2Zi5VYHMqWaEQOE8842fDglG3KQ7udSkLdRxZb29Eg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "나그네핑 티니핑이에요.",
+    "hints": [
+      "나그네핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "나그네핑",
+      "imageAlt": "티니핑 나그네핑",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-006",
+    "nameKo": "고고핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B3%A0%EA%B3%A0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/vdqTInZgPLd6qgumLmGaTrBFRGSi1-KVC2_CFStXDbGy1fNlxxo1hdlPXyEnkakAZAIHfrFNOpVbSIA1ABDv3OJmhui8HthbSFFhIpLuPnc4ThxsPxIG7UfnVXgUVcfLGgnlUKs6By9t_b6QQqvjqA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "고고핑 티니핑이에요.",
+    "hints": [
+      "고고핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "고고핑",
+      "imageAlt": "IMG 5980",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-007",
+    "nameKo": "뿌쵸핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%BF%8C%EC%B5%B8%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/ppqPtjLUGBDdUFjyKUz7o8rMRxUrY3awJYWVFp1JxUQxBOtK5QVUDyt6Sy7spRgl5mIx_gIWilCzGGvjQDmwnHqwCExK1EanaRyhZYwDC8OJEZFaaSDd_XJOAD0pwIBWBzmWNnYtI-qRtBkSGvpRYA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "뿌쵸핑 티니핑이에요.",
+    "hints": [
+      "뿌쵸핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "뿌쵸핑",
+      "imageAlt": "티니핑 뿌쵸핑",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-008",
+    "nameKo": "고마핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EA%B3%A0%EB%A7%88%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/5OT3wgsTUNYpUI6aHy7W4zNm1V3F56-1zzKmJie23WGNruacXkTyBFW13DC7-A-U9dZIiFPYvWhqzycTuwk20YVawfYi_I6rrr2F0eAmmepKT2QzZc7-5n3Y6k62SIxVpTiVA4BAdfEHXxYsXBEj-g.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "고마핑 티니핑이에요.",
+    "hints": [
+      "고마핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "고마핑",
+      "imageAlt": "IMG 고마핑고마",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-009",
+    "nameKo": "아롱핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%EB%A1%B1%ED%95%91%26%EB%8B%A4%EB%A1%B1%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/pI1HTQRoqDafvxw17jKXTKyj3qN4KDWedcra-JxnhD8fv-Y1vUixhkVjBn5-f1cIoZw_sNrs0texdfBrmlCRm9zjnC-rbKljLiQpFTfa04BvZn1GWYfGMbgksDR9jh7Wx8tObLhvsM3GwSAUyLfBZA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "아롱핑 티니핑이에요.",
+    "hints": [
+      "아롱핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아롱핑&다롱핑",
+      "imageAlt": "티니핑 아롱핑",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-010",
+    "nameKo": "다롱핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%EB%A1%B1%ED%95%91%26%EB%8B%A4%EB%A1%B1%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/pF03QY_RM5MTEXrZldCwM6Q5vPfVIGLTCPWFcJqETxUWjvWXxVXGh6KWaenaLtl7bgmLzBygVBKEQYnLVpubSd4kKrDiatcRJeWO3Xm-ovboJJEF6U8BfFOX7lS1xZeP5aH6VRQ-foXNbIEzrMYdLg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "다롱핑 티니핑이에요.",
+    "hints": [
+      "다롱핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아롱핑&다롱핑",
+      "imageAlt": "다롱핑",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-011",
+    "nameKo": "뽀송핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%BD%80%EC%86%A1%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/EcpN81jWgxvMauGvJ_P-3VbuDxhy-oZSeeEj6F5zr7XNVTVRrfWlJYbjkJjVYo4bCSMeLbOglgVIoiPO0d_-SmCzXjSB87tSlJ7X--adITkmVWw-cUMO0lvFzXwdCLBxygm__9W-s9l8rqWO_9tfNw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "뽀송핑 티니핑이에요.",
+    "hints": [
+      "뽀송핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "뽀송핑",
+      "imageAlt": "IMG 61591",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-012",
+    "nameKo": "유리핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%9C%A0%EB%A6%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/TJuFS86hXWXHgoBNudn5MCqbR009lGY6ayMBAWLT5ujTciL66HK6NKz1GJRrN8AR0irR1PFyymgn8gNsUm0c_-f-HdPQbs780a1XDfCTqHe4LFjHxvSv4k8pzGqZ-dKGbIthwE9DraQX_kaTdc4MzQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "유리핑 티니핑이에요.",
+    "hints": [
+      "유리핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "유리핑",
+      "imageAlt": "IMG 59931",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-013",
+    "nameKo": "함께핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%95%A8%EA%BB%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/WfRtQa7cqO47v9q2DEYt-kb9EO_u73XIErAbCAxjCQ8w9OmZxWkp8meV0UFTI77Hjx_05rUAXsqc_Uk399zc9XNBPsfKKDoLNgwbUpnVDIBDLZdVMyY-i6Jn8zMWOnb04LkFfdY3wnXUq8pSZ7Ytlw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "함께핑 티니핑이에요.",
+    "hints": [
+      "함께핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "함께핑",
+      "imageAlt": "IMG 5954",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-014",
+    "nameKo": "댄스핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%8C%84%EC%8A%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/fqQF9lqiZgr-GoAklCYszsOK8B1Y3JqU9WM6ceCYIlmaciMf2JHYwBaFqYwNJnyyTbDTWrtXHrVvIWJ4TnQIlRsKYrrjdGpGsAbzTKIl4SPeD-J1cQtk4ADLO6lXd3VcWH0LCUr3mbHRQ6EGe4ftsQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "댄스핑 티니핑이에요.",
+    "hints": [
+      "댄스핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "댄스핑",
+      "imageAlt": "IMG 5999",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-015",
+    "nameKo": "여우핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%97%AC%EC%9A%B0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/Ycy_WWoiYMBhPjPxSTX_WI7MPn7izIbqxtaZ5dV9ktG0SZ3OylxAbf4garoRpJkoI1ArV4Svmh_kvf7RJxH8T0N7-qaALhVpaoGShrt_jJYJ-vbZL6PEYZTlxOlXI-BaLRiXK8N8hlekwM_gW76lUg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "여우핑 티니핑이에요.",
+    "hints": [
+      "여우핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "여우핑",
+      "imageAlt": "티니핑 여우핑",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-016",
+    "nameKo": "루루핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%A3%A8%EB%A3%A8%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/FW4ah9_HS9f-vv_kEzLNcV2lG0KLQxzUR1PDEB7AsCpe7reyrPQ9yvWvCzy6ga0o3PPuSiCK7FElqJ1zSQmxJln5D6NSybMnXMBDOKASibQC0TwVPH3qnFNHpUs4NswPGSjwxljENY6WXe2m01HC2g.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "루루핑 티니핑이에요.",
+    "hints": [
+      "루루핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "루루핑",
+      "imageAlt": "IMG 59831",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-017",
+    "nameKo": "몰래핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%AA%B0%EB%9E%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/Mn3X5lRwjC4cLR2CJu8YGbnn3tTEI3R_lXdaKGePipMRtwxf2X7wtDoXf-ENHpUjwshMYYy1JBYcNFvVLIiruYbnwwCtz3o9TIWwtl36ivcDeNCjfL0YnDWL2H8TSzKK8QVIwaEMYIoBsalT0I29sw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "몰래핑 티니핑이에요.",
+    "hints": [
+      "몰래핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "몰래핑",
+      "imageAlt": "일반 몰래핑",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s5-general-018",
+    "nameKo": "뽀뽀핑",
+    "season": 5,
+    "seriesTitle": "슈팅스타 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%BD%80%EB%BD%80%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/1ZUw3r8L-hcyIIvEpW7RKSg6KWQFs0avh9TmEWIhdVVaRaEG6G61UVidoAvw57Z87EzttPNvVk248DfvniszJl6ZpFbinFrDZVpjHNf6L9jpaDj15x6cVULcawEwA2JO5FzCa4dirLVAvZjJgdchbg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#7e8cff",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "뽀뽀핑 티니핑이에요.",
+    "hints": [
+      "뽀뽀핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "뽀뽀핑",
+      "imageAlt": "IMG 5986",
+      "sectionTitle": "5기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-royal-001",
+    "nameKo": "프린세스 하츄핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%ED%95%98%EC%B8%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/6od9sCsx50lx6Xgfu2FLijGIckXPwWYS04sVJ8g0Xpp4wfcxY7559FuI6YOy-WD8j-WdI3GixlMH9JsrBOxXbFx2A0uNg0dpmA3hpHeYgSg3IDyE4inx0VYF2kjm5AIx1EUuefcUvAPQXnIqgDy6EQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "프린세스 하츄핑 티니핑이에요.",
+    "hints": [
+      "프린세스 하츄핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "하츄핑",
+      "imageAlt": "프린세스 티니핑 하츄핑",
+      "sectionTitle": "6기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s6-royal-002",
+    "nameKo": "사뿐핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EC%82%AC%EB%BF%90%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/gLFXb0r5q4XSHLJXDhz1bEmSv9B7KwxEu7Bsq_OAMSrfJhOrwz87zj6ZEymZP9E2VREITajw3toxXgdU_8bH7D0lWLCwe7twF4hNzfKIIqcWnqXEQCIM_t_djkJYCvcyow_cA5k7QhmTeoEGnbKJjg.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "사뿐핑 티니핑이에요.",
+    "hints": [
+      "사뿐핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "사뿐핑",
+      "imageAlt": "6기 사뿐핑",
+      "sectionTitle": "6기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s6-royal-003",
+    "nameKo": "아름핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "royal",
+    "sourcePage": "https://namu.wiki/w/%EC%95%84%EB%A6%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/fqLiJu1dUw39psa5NJLUWjUCdR5xbwuQoPXswVDwco1q2qXxnxEJaSKlclnwz0qVVZKwq36dvAjnkJuvkbu7EPf9ScB0p2OzXjGt1NncdvfTwAvqQ0VuTB2PC31gf7BJO6N_3pBZjjApF8qUOE59fQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#ff69b4",
+    "silhouette": "crown",
+    "summaryFallback": "아름핑 티니핑이에요.",
+    "hints": [
+      "아름핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "아름핑",
+      "imageAlt": "6기 아름핑",
+      "sectionTitle": "6기 로열 티니핑"
+    }
+  },
+  {
+    "id": "s6-legend-001",
+    "nameKo": "이클립스핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "legend",
+    "sourcePage": "https://namu.wiki/w/%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/cZs5209c_HKPVNmIWk6X2VsySO7ntpug-Wv825mIcFjnBtJBIoTx-mlc-cvi6LgEYObT-vAYvBC4443XfKcMXDNCeicI9vnkFrmGnlmC_xdgB2hgsyDJw5XeZh_R13pBUwgA89p2HvYgh7GMV1J9Uw.webp",
+    "difficultyBase": "hard",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#f7c95c",
+    "silhouette": "star",
+    "summaryFallback": "이클립스핑 티니핑이에요.",
+    "hints": [
+      "이클립스핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "이클립스핑",
+      "imageAlt": "이클립스핑2",
+      "sectionTitle": "6기 레전드 티니핑"
+    }
+  },
+  {
+    "id": "s6-legend-002",
+    "nameKo": "다이아나핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "legend",
+    "sourcePage": "https://namu.wiki/w/%EB%8B%A4%EC%9D%B4%EC%95%84%EB%82%98%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/YKNnn2b_QIUrw4R9dnS8kXOi5eO0cKhF3BtpccXQvofjAMMjocTW0s8RF9kx-BkhKrlAGL7PzhfyxhWyWEqD7fgR-Ghrm4HNL39w5u0eUtd7hn1jqWaWpIi4WIPS-MTVjTnAcbig2O3O4X3YHkgeWw.webp",
+    "difficultyBase": "hard",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#f7c95c",
+    "silhouette": "star",
+    "summaryFallback": "다이아나핑 티니핑이에요.",
+    "hints": [
+      "다이아나핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "다이아나핑",
+      "imageAlt": "다이아나핑",
+      "sectionTitle": "6기 레전드 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-001",
+    "nameKo": "뽀득핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%BD%80%EB%93%9D%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/cgbQm8fGgJ89LDTQxkOFtbshtY09KjnUhNyaJgxoO30NXQBPjJvuB_kVSYRizxqJ3k1IhCMuTqDG7AfwEAO7YM3kKwXSL2uQclDf7F9peoa08McJndW56KLO_KEaPUQGQTsxpEYor7u3-ba3k8h5EQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "뽀득핑 티니핑이에요.",
+    "hints": [
+      "뽀득핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "뽀득핑",
+      "imageAlt": "뽀득핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-002",
+    "nameKo": "차밍핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%B0%A8%EB%B0%8D%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/1GBblsCXaul5huaOOyUEeZb8kAVsFWmdsvJZnmgdgUIP-p_uhZV1u8wbDaxRa3Mv9yEE-njCPJz55QXAg8-al6lIz7LCvQAQY5ybXATS8sSbpyBDdf81cg0yPQl630ifXPPQOca5Ft_rBFwNf1Phpw.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "차밍핑 티니핑이에요.",
+    "hints": [
+      "차밍핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "차밍핑",
+      "imageAlt": "차밍핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-003",
+    "nameKo": "나비핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%82%98%EB%B9%84%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/IMy85nvOCgrXe8ENWa2MDA1t8_SFMqh01200RMB7o41oz7I3SR7L2aafPhTykpisFuR3lnxsBtNQHcDmtQqRktqmdiPLeSh68C0SUdW-0sNnMCcO2E6BT1RtlYxEusXQehVP9788fKLXtzoKu-A07w.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "나비핑 티니핑이에요.",
+    "hints": [
+      "나비핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "나비핑",
+      "imageAlt": "나비핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-004",
+    "nameKo": "실크핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%8B%A4%ED%81%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/sUVKXFEoHV6FNuCqRBxn9lOmUDW3LTiH_sPGM9I1X5icCm-PMPYyhI5YPcuHVu23WLgAtH83nBYaZWTW0Vd-TQ1MxL9y1Pfs5OTE-y_vPhbqG8zi2bVyediB9eEChEG9yHUShwEw2VOfcecGI58hvA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "실크핑 티니핑이에요.",
+    "hints": [
+      "실크핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "실크핑",
+      "imageAlt": "실크핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-005",
+    "nameKo": "스노우핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%8A%A4%EB%85%B8%EC%9A%B0%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/6-G3izCvmZfKWdV2D7MfRulf770BB30ZqVCVUgVr26upL4d4DCFlLhH3xIKwLL-LAVg8ksslbStu_i4BEUnXfFE6cPoPS1RM0-c1tSwuOhb_yLxzO0xVRWNEAOc4l3aG1W5bCnZiGnbaNwDYG67h4Q.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "스노우핑 티니핑이에요.",
+    "hints": [
+      "스노우핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "스노우핑",
+      "imageAlt": "스노우핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-006",
+    "nameKo": "이슬핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%9D%B4%EC%8A%AC%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/ecfKgF_ZLXHCmpfBEseKXyYaOzxknSPh1q6ceg04Z-thuQlB0kfrQ1u4JNPkhyMrMLp7zk4Ovo_6pVQCQj77YsUiuOAnoHLvYX7WfgXlt81CT40UuCG-WMHUe1s8Hm-9pd086r6KLT8DL1DHxatjTQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "이슬핑 티니핑이에요.",
+    "hints": [
+      "이슬핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "이슬핑",
+      "imageAlt": "이슬핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-007",
+    "nameKo": "쿨쿨핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%BF%A8%EC%BF%A8%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/fpWcJYxtqwjptqGGFmQw-FglyRg4tzeNxvaiH7y34AD5qfkUlO3TAWO_p-fKFrcCXdAEFGyf2Co8d7Wn96olxbnk2YmX8v5BT0XfmLOiBdGWFM0rgFImUaaOXmiOQQyq6Zi5TqrmoeP2-X_XCkVmsQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "쿨쿨핑 티니핑이에요.",
+    "hints": [
+      "쿨쿨핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "쿨쿨핑",
+      "imageAlt": "쿨쿨핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-008",
+    "nameKo": "슈슈핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%8A%88%EC%8A%88%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/eV768W8uVnRb5wMy--zwFR_XvrLRVbtEVWtbmPrYajgfKCasRho-yuCK0PvyY0J-8WlsNxCAxk8RSdVy7AkWvFqp1Na-En8tPmRTBNlLG1yDiiMexp4cM7ENunfSz7xeITJ-LnHO0XFffaNnSTGtEQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "슈슈핑 티니핑이에요.",
+    "hints": [
+      "슈슈핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "슈슈핑",
+      "imageAlt": "슈슈핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-009",
+    "nameKo": "롱롱핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EB%A1%B1%EB%A1%B1%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/LADKf480fcx7sqwyTKPrM0zxm4J4hmb-dSE-XCruRvdHCIcYu0ESqdldT03TIKqsaEwKdZw3SWWxyckhACzJ2lNohrnLJOXzhx-NN_KYjpJDfJ69f6lhi0TEqTR9s3aW0A8rDzqAynbrR1VUSraIfA.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "롱롱핑 티니핑이에요.",
+    "hints": [
+      "롱롱핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "롱롱핑",
+      "imageAlt": "롱롱핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-010",
+    "nameKo": "큐핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%ED%81%90%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/as2YqtLPCM2IHV1T7vNoJOpI-JpBQAq2dEfD5gU2u6Hzy6U1hJXDDPZs8Ps-TMo4VP7sb_QW_9ivfEhJqBJcvWeJ4w3HwzuJkMN5OqBSTtQwvzz9k6nfgVk8Ya7TFT0f_YoOp61mFC3k6ZzDx9JtOQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "큐핑 티니핑이에요.",
+    "hints": [
+      "큐핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "큐핑",
+      "imageAlt": "큐핑",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  },
+  {
+    "id": "s6-general-011",
+    "nameKo": "야옹핑",
+    "season": 6,
+    "seriesTitle": "프린세스 캐치! 티니핑",
+    "category": "general",
+    "sourcePage": "https://namu.wiki/w/%EC%95%BC%EC%98%B9%ED%95%91",
+    "sourceImageUrl": "https://i.namu.wiki/i/3tdCmMa6lpAGoSZsSNoiiE6lr9QnFb3wuBXqzAYBFAFrgsdfBXUHV-_GzY86a36CfGIHVfIF-GLD3axj5LrqwAlED9hmweljEK4PAww4CmWhbijgjq15RMrNS9q8-mxvtFF2SHDVjW-vf14oicBeTQ.webp",
+    "difficultyBase": "medium",
+    "themeColor": "#ff9fd4",
+    "accentColor": "#8fc3ff",
+    "silhouette": "heart",
+    "summaryFallback": "야옹핑 티니핑이에요.",
+    "hints": [
+      "야옹핑의 특징을 설명할 상세 힌트는 후속 정제 단계에서 보강할 예정이에요."
+    ],
+    "voice": {
+      "status": "needs-review"
+    },
+    "meta": {
+      "entryTitle": "야옹핑",
+      "imageAlt": "야옹핑(수정)",
+      "sectionTitle": "6기 일반 티니핑"
+    }
+  }
+]

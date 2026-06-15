@@ -1,0 +1,98 @@
+[
+  {
+    "sectionTitle": "1기 로열 티니핑",
+    "season": 1,
+    "category": "royal",
+    "count": 6
+  },
+  {
+    "sectionTitle": "1기 일반 티니핑",
+    "season": 1,
+    "category": "general",
+    "count": 38
+  },
+  {
+    "sectionTitle": "2기 로열 티니핑",
+    "season": 2,
+    "category": "royal",
+    "count": 4
+  },
+  {
+    "sectionTitle": "2기 일반 티니핑",
+    "season": 2,
+    "category": "general",
+    "count": 16
+  },
+  {
+    "sectionTitle": "3기 로열 티니핑",
+    "season": 3,
+    "category": "royal",
+    "count": 4
+  },
+  {
+    "sectionTitle": "3기 레전드 티니핑",
+    "season": 3,
+    "category": "legend",
+    "count": 1
+  },
+  {
+    "sectionTitle": "3기 일반 티니핑",
+    "season": 3,
+    "category": "general",
+    "count": 16
+  },
+  {
+    "sectionTitle": "4기 로열 티니핑",
+    "season": 4,
+    "category": "royal",
+    "count": 4
+  },
+  {
+    "sectionTitle": "4기 레전드 티니핑",
+    "season": 4,
+    "category": "legend",
+    "count": 2
+  },
+  {
+    "sectionTitle": "4기 일반 티니핑",
+    "season": 4,
+    "category": "general",
+    "count": 15
+  },
+  {
+    "sectionTitle": "5기 로열 티니핑",
+    "season": 5,
+    "category": "royal",
+    "count": 4
+  },
+  {
+    "sectionTitle": "5기 레전드 티니핑",
+    "season": 5,
+    "category": "legend",
+    "count": 1
+  },
+  {
+    "sectionTitle": "5기 일반 티니핑",
+    "season": 5,
+    "category": "general",
+    "count": 18
+  },
+  {
+    "sectionTitle": "6기 로열 티니핑",
+    "season": 6,
+    "category": "royal",
+    "count": 3
+  },
+  {
+    "sectionTitle": "6기 레전드 티니핑",
+    "season": 6,
+    "category": "legend",
+    "count": 2
+  },
+  {
+    "sectionTitle": "6기 일반 티니핑",
+    "season": 6,
+    "category": "general",
+    "count": 11
+  }
+]

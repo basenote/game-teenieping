@@ -1,0 +1,50 @@
+[
+  {
+    "id": "s1-hachu",
+    "nameKo": "하츄핑",
+    "targetFile": "web/assets/images/characters/s1-hachu.png",
+    "sourcePage": "https://namu.moe/w/%ED%95%98%EC%B8%84%ED%95%91",
+    "sourceImageUrl": "https://file.namu.moe/file/2fbb6def00557d266fcf8366b6c4f0737eaffc32fb3bc1962f5eac0cf1939ed84aaf85bcca7ebf960ebb1ed3dba28d30",
+    "status": "pending"
+  },
+  {
+    "id": "s1-baro",
+    "nameKo": "바로핑",
+    "targetFile": "web/assets/images/characters/s1-baro.png",
+    "sourcePage": "https://namu.moe/w/%EB%B0%94%EB%A1%9C%ED%95%91",
+    "sourceImageUrl": "https://file.namu.moe/file/9fc4a98bf4b6753beb322cce4252dd7ded8d167b5ab1e359615bc560fee6c293",
+    "status": "pending"
+  },
+  {
+    "id": "s1-lala",
+    "nameKo": "라라핑",
+    "targetFile": "web/assets/images/characters/s1-lala.png",
+    "sourcePage": "https://namu.moe/w/%EB%9D%BC%EB%9D%BC%ED%95%91",
+    "sourceImageUrl": "https://file.namu.moe/file/1946a6dc6f3bf561dfab418c3dc0ebc72d66e5d957f54c4e704304a4f861dc98",
+    "status": "pending"
+  },
+  {
+    "id": "s5-bitna",
+    "nameKo": "빛나핑",
+    "targetFile": "web/assets/images/characters/s5-bitna.png",
+    "sourcePage": "https://namu.moe/w/%EB%B9%9B%EB%82%98%ED%95%91",
+    "sourceImageUrl": "https://file.namu.moe/file/3dd8f8f7edca36e4d3c570b329a13ce0d4e6258b8d45b803cc085651bca86469",
+    "status": "pending"
+  },
+  {
+    "id": "s5-chorong",
+    "nameKo": "초롱핑",
+    "targetFile": "web/assets/images/characters/s5-chorong.png",
+    "sourcePage": "https://namu.moe/w/%EC%B4%88%EB%A1%B1%ED%95%91",
+    "sourceImageUrl": "https://file.namu.moe/file/79214cd91af81e35fb90f2749b58503aaf4a7950abf2223c9b3ac95e90aaaca2",
+    "status": "pending"
+  },
+  {
+    "id": "s6-princess-hachu",
+    "nameKo": "프린세스 하츄핑",
+    "targetFile": "web/assets/images/characters/s6-princess-hachu.png",
+    "sourcePage": "https://namu.moe/w/%ED%95%98%EC%B8%84%ED%95%91",
+    "sourceImageUrl": "https://file.namu.moe/file/2fbb6def00557d266fcf8366b6c4f0737eaffc32fb3bc1962f5eac0cf1939ed84aaf85bcca7ebf960ebb1ed3dba28d30",
+    "status": "pending"
+  }
+]
