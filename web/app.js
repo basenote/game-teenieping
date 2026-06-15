@@ -534,13 +534,6 @@ function renderQuiz() {
 
           <div class="action-row">
             <button class="secondary-btn" type="button" id="hint-button" ${question.hintRevealed ? "disabled" : ""}>💡 힌트 보기</button>
-            <button
-              id="voice-button"
-              class="icon-btn voice-${voice.status}"
-              type="button"
-              aria-label="사운드 듣기"
-              ${voice.status === "missing" ? "disabled" : ""}
-            >${renderSpeakerIcon()}</button>
           </div>
 
           <div class="option-grid">
@@ -572,7 +565,6 @@ function renderQuiz() {
   });
 
   document.getElementById("hint-button").addEventListener("click", revealHint);
-  document.getElementById("voice-button").addEventListener("click", playVoice);
   document.getElementById("submit-button").addEventListener("click", submitAnswer);
 }
 
