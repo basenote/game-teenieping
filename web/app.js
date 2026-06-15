@@ -529,11 +529,9 @@ function renderQuiz() {
               class="icon-btn voice-${voice.status}"
               type="button"
               aria-label="사운드 듣기"
-              title="${voiceStatusMessage(voice)}"
               ${voice.status === "missing" ? "disabled" : ""}
             >${renderSpeakerIcon()}</button>
           </div>
-          <div class="voice-caption">${voiceStatusMessage(voice)}</div>
 
           <div class="option-grid">
             ${question.choices.map((choice) => `
@@ -574,29 +572,38 @@ function renderFeedback() {
   const selectedName = currentQuestion().choices.find((choice) => choice.id === selectedAnswerId)?.nameKo;
 
   app.innerHTML = `
-    <section class="screen result-card ${isCorrect ? "" : "shake"}">
-      <div class="feedback-banner ${isCorrect ? "correct" : "wrong"}">
-        ${isCorrect ? "정답이에요" : "아쉬워요"}
-      </div>
-      <div class="result-character">
-        <div class="result-character-card">
-          <img src="${resolveCharacterImageSource(answer)}" alt="${answer.nameKo} 결과 이미지" />
+    <section class="screen feedback-screen ${isCorrect ? "" : "shake"}">
+      <div class="result-card">
+        <div class="feedback-badge ${isCorrect ? "correct" : "wrong"}">
+          ${isCorrect ? "정답이에요! ✨" : "아쉬워요... 💧"}
         </div>
-        <div>
-          <h2 class="answer-name">${answer.nameKo}</h2>
-          <div class="mood-wrap">
-            ${renderMoodIcon(isCorrect)}
-            <div class="mood-note">
+        
+        <div class="feedback-layout">
+          <div class="feedback-visual">
+            <div class="character-circle" style="background: ${answer.themeColor}33; border-color: ${answer.themeColor}">
+              <img src="${resolveCharacterImageSource(answer)}" alt="${answer.nameKo}" />
+            </div>
+          </div>
+          
+          <div class="feedback-info">
+            <h2 class="answer-name">${answer.nameKo}</h2>
+            <div class="feedback-message">
               ${isCorrect
-                ? "정답을 맞혔어요. 캐릭터와 이름을 정확히 연결했어요."
-                : `선택한 답은 ${selectedName ?? "알 수 없음"}이었어요. 정답 캐릭터를 보고 다음 문제에서 다시 도전해 보세요.`}
+                ? "티니핑의 이름을 완벽하게 맞혔어요!"
+                : `답은 <strong>${selectedName}</strong>(이)가 아니라 <strong>${answer.nameKo}</strong>였어요.`}
             </div>
           </div>
         </div>
-      </div>
-      <p class="result-copy">${answer.summary}</p>
-      <div class="result-actions">
-        <button id="next-button" class="primary-btn" type="button">${state.currentIndex === state.questions.length - 1 ? "전체 결과 보기" : "다음 문제"}</button>
+
+        <div class="feedback-summary">
+           ${answer.summary}
+        </div>
+
+        <div class="result-actions">
+          <button id="next-button" class="primary-btn pulse" type="button">
+            ${state.currentIndex === state.questions.length - 1 ? "최종 결과 보기" : "다음 문제로!"}
+          </button>
+        </div>
       </div>
     </section>
   `;
