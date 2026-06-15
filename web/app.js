@@ -526,9 +526,8 @@ function renderQuiz() {
         </article>
 
         <section class="quiz-panel">
-          <div class="panel-header">
-            <h3 class="question-title">누구일까요?</h3>
-            <p class="panel-subtitle">이미지와 힌트를 보고 맞춰보세요!</p>
+          <div class="panel-header-inline">
+            <h3 class="question-title">누구일까요? <span class="panel-subtitle">이미지와 힌트를 보고 맞춰보세요!</span></h3>
           </div>
 
           <div class="hint-box"><p class="hint-line">${question.hintRevealed ? `힌트. ${hintText}` : hintText}</p></div>

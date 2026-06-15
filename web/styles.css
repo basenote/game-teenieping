@@ -287,13 +287,17 @@ select {
 .quiz-panel {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 8px;
   justify-content: space-between;
 }
 
-.panel-header { margin-bottom: 2px; }
-.question-title { font-size: 18px; font-weight: 900; color: var(--text-main); margin-bottom: 2px; }
-.panel-subtitle { font-size: 13px; color: var(--text-muted); }
+.panel-header-inline { 
+  margin-bottom: 2px; 
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--primary-pink-light);
+}
+.question-title { font-size: 16px; font-weight: 900; color: var(--text-main); display: flex; align-items: baseline; }
+.panel-subtitle { font-size: 11px; color: var(--text-muted); font-weight: 600; margin-left: 8px; }
 
 .hint-box {
   background: #fffdf5;
