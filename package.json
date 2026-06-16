@@ -13,6 +13,11 @@
     "build:full-dataset": "node scripts/build_dataset.mjs --seed=data/seeds/characters.full.json",
     "download:images": "node scripts/download_images.mjs",
     "import:manual-images": "node scripts/import_manual_images.mjs",
-    "verify:assets": "node scripts/verify_assets.mjs"
+    "verify:assets": "node scripts/verify_assets.mjs",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.100.0"
   }
 }
